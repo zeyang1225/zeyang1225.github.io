@@ -2,8 +2,8 @@
 
 <div class="publications">
 <ol class="bibliography">
-  
-<p style="font-size: 24px;"><strong>Publications</strong></p>
+<br>
+<p style="font-weight: bold; font-size: 20px;">Publications</p>
   
 <li>
 <div class="pub-row">
@@ -34,7 +34,7 @@
 </li>
 <br>
   
-<p style="font-size: 24px;"><strong>Working Papers</strong></p>
+<p style="font-weight: bold; font-size: 20px;">Working Papers</p>
   
 <li>
 <div class="pub-row">
@@ -77,11 +77,42 @@
     <div class="title">Beyond tokenism: The impact of board ethnic diversity on supply chain diversification</a></div>
     <div class="author"><b>Yiwen Jin</b>, Minjia Li, Jenny Li Zhang</div>
     <div class="periodical"><em>Manuscript prepare to be submitted to Management Science</em></div>
-      -- <b>Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</b>
   </div>
 </div>
 </li>
 <br>
+
+<p style="font-weight: bold; font-size: 20px;">Work in Progress</p>
+  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">When are doctors most needed? Risk-adaptive scheduling in emergency department</a></div>
+    <div class="author"><strong>Yiwen Jin</strong>, Yichuan Ding, Garth Hunte</div>
+  </div>
+</div>
+</li>  
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Coping with nurse burnout: Key drivers and operational interventions</a></div>
+    <div class="author"><b>Yiwen Jin</b>, Steven Shechter, Yichuan Ding, Jugpal Arneja</div>
+  </div>
+</div>
+</li>
+<br>
+
+
 
 </ol>
 </div>
