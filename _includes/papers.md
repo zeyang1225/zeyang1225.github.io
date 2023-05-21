@@ -1,9 +1,9 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>
 
 
-<div class="publications">## Publications ##
+<div class="publications">
 <ol class="bibliography">
-
+## Publications ##
 <li>
 <div class="pub-row">
 
