@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
   
-## Publications ##
+# Publications #
   
 <li>
 <div class="pub-row">
@@ -33,7 +33,7 @@
 </div>
 </li>
  
-## Working Papers ## 
+# Working Papers # 
 <li>
 <div class="pub-row">
 
