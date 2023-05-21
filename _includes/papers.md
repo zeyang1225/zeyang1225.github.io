@@ -2,9 +2,8 @@
 
 
 <div class="publications">
-## Publications ##
 <ol class="bibliography">
-
+## Publications ##
 <li>
 <div class="pub-row">
 
