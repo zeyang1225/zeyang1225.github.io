@@ -8,6 +8,8 @@ Hello, and welcome to my website! I am currently a Ph.D. candidate in the [Opera
 
 {% include_relative _includes/papers.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/teaching.md %}
 
 {% include_relative _includes/services.md %}
