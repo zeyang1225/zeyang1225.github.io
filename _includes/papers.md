@@ -74,7 +74,7 @@
 </li>
 <br>
 
-<h4 style="margin:0 10px 0;">Work in Progress</h4>  
+<h4 style="margin:0 0 0;">Work in Progress</h4>  
 
 <li>
 <div class="pub-row">
