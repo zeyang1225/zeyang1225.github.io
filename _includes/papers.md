@@ -46,7 +46,7 @@
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756677">The cost of task switching: Evidence from the emergency department</a></div>
     <div class="author"><strong>Yiwen Jin</strong>, Yige Duan, Yichuan Ding, Mahesh Nagarajan, Garth Hunte</div>
     <div class="periodical"><em>Under 2nd round review, M&SOM</em></div>
-      -- <b>Finalist (Top 4) of 2023 POMS Best Healthcare Paper Competition</b>
+      -- <b>Finalist (Top 4) of 2023 POMS Best Healthcare Paper Competition</b><br>
       -- <b>Winner of 2021 CORS Healthcare SIG Best Paper in Statistical Methods/Econometric Modelling</b>
   </div>
 </div>
