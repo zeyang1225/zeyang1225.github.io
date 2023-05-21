@@ -1,7 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>
 
-### Publications ###
-<div class="publications">
+
+<div class="publications">## Publications ##
 <ol class="bibliography">
 
 <li>
@@ -32,7 +32,7 @@
 </div>
 </li>
  
-### Working Papers ### 
+## Working Papers ## 
 <li>
 <div class="pub-row">
 
