@@ -8,10 +8,8 @@
   
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://journals.sagepub.com/doi/pdf/10.1177/2292550319880921">High-risk plastic surgery: An analysis of 108,303 cases from the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP)</a></div>
     <div class="author">Wan, M., Zhang, J.X., Ding, Y., <b>Jin, Y.</b>, Bedford, J., Nagarajan, M., Bucevska, M., Courtemanche, D.J. and Arneja, J.S.</div>
@@ -22,10 +20,8 @@
 
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7209891/">Do microsurgical outcomes differ based on which specialty does the operation? A NSQIP analysis</a></div>
     <div class="author">Zhang, J.X., Wan, M., Ding, Y., <b>Jin, Y.</b>, Nagarajan, M., Courtemanche, D.J., Bedford, J. and Arneja, J.S.</div>
@@ -39,10 +35,8 @@
   
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756677">The cost of task switching: Evidence from the emergency department</a></div>
     <div class="author"><strong>Yiwen Jin</strong>, Yige Duan, Yichuan Ding, Mahesh Nagarajan, Garth Hunte</div>
@@ -55,10 +49,8 @@
 
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4048352">Adaptive server behavior to deviations in schedules and its consequences: Evidence from operating rooms</a></div>
     <div class="author"><b>Yiwen Jin</b>, Yichuan Ding, Steven Shechter, Arneja Jugpal</div>
@@ -70,7 +62,6 @@
   
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -84,11 +75,9 @@
 <br>
 
 <h4 style="margin:0 10px 0;">Work in Progress</h4>  
- 
   
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -97,15 +86,13 @@
   </div>
 </div>
 </li>  
-  
+ 
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Coping with nurse burnout: Key drivers and operational interventions</a></div>
+    <div class="title">Coping with nurse burnout: Key drivers and operational interventions</div>
     <div class="author">with Steven Shechter, Yichuan Ding, Jugpal Arneja</div>
   </div>
 </div>
