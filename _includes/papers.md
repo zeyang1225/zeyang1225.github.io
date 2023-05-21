@@ -20,6 +20,24 @@
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7209891/">Do microsurgical outcomes differ based on which specialty does the operation? A NSQIP analysis.</a></div>
+    <div class="author">Zhang, J.X., Wan, M., Ding, Y., <strong>Jin, Y.</strong>, Nagarajan, M., Courtemanche, D.J., Bedford, J. and Arneja, J.S.</div>
+    <div class="periodical"><em>Plastic and Reconstructive Surgery Global Open</em>, 8(4).</div>
+    <div class="links">
+      <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7209891/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;"></a>
+    </div>
+  </div>
+</div>
+</li>
   
 <br>
 
