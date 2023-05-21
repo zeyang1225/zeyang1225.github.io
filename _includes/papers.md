@@ -74,23 +74,19 @@
 </li>
 <br>
 
-<h4 style="margin:0 0 0;">Work in Progress</h4>  
+<h4 style="margin:0 10px 0;">Work in Progress</h4>  
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="padding-right: 15px;padding-left: 20px;">
     <div class="title">When are doctors most needed? Risk-adaptive scheduling in emergency department</div>
     <div class="author">with Yichuan Ding, Garth Hunte</div>
-  </div>
 </div>
 </li>
   
 <li>
 <div class="pub-row">
-  <div class="col-sm-9" style="padding-right: 15px;padding-left: 20px;">
     <div class="title">Coping with nurse burnout: Key drivers and operational interventions</div>
     <div class="author">with Steven Shechter, Yichuan Ding, Jugpal Arneja</div>
-  </div>
 </div>
 </li>
   
