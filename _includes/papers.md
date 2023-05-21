@@ -3,7 +3,8 @@
 <div class="publications">
 <ol class="bibliography">
 <br>
-<p style="font-weight: bold; font-size: 20px;">Publications</p>
+
+<h4 style="margin:0 10px 0;">Publications</h4>  
   
 <li>
 <div class="pub-row">
@@ -34,7 +35,7 @@
 </li>
 <br>
   
-<p style="font-weight: bold; font-size: 20px;">Working Papers</p>
+<h4 style="margin:0 10px 0;">Working Papers</h4>  
   
 <li>
 <div class="pub-row">
@@ -83,7 +84,7 @@
 </li>
 <br>
 
-<p style="font-weight: bold; font-size: 20px;">Work in Progress</p>
+<h4 style="margin:0 10px 0;">Work in Progress</h4>  
   
 <li>
 <div class="pub-row">
