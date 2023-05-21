@@ -41,8 +41,8 @@
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756677">The cost of task switching: Evidence from the emergency department</a></div>
     <div class="author"><strong>Yiwen Jin</strong>, Yige Duan, Yichuan Ding, Mahesh Nagarajan, Garth Hunte</div>
     <div class="periodical"><em>Under 2nd round review, M&SOM</em></div>
-      -- <b>Finalist (Top 4) of 2023 POMS Best Healthcare Paper Competition</b><br>
-      -- <b>Winner of 2021 CORS Healthcare SIG Best Paper in Statistical Methods/Econometric Modelling</b>
+      -- <strong>Finalist (Top 4) of 2023 POMS Best Healthcare Paper Competition</strong><br>
+      -- <strong>Winner of 2021 CORS Healthcare SIG Best Paper in Statistical Methods/Econometric Modelling</strong>
   </div>
 </div>
 </li>  
@@ -53,9 +53,9 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4048352">Adaptive server behavior to deviations in schedules and its consequences: Evidence from operating rooms</a></div>
-    <div class="author"><b>Yiwen Jin</b>, Yichuan Ding, Steven Shechter, Arneja Jugpal</div>
+    <div class="author"><strong>Yiwen Jin</strong>, Yichuan Ding, Steven Shechter, Arneja Jugpal</div>
     <div class="periodical"><em>Under 1st round review, M&SOM</em></div>
-      -- <b>Finalist (Top 5) of 2023 CORS Healthcare Operational Research SIG Graduate Student Presentation Competition</b>
+      -- <strong>Finalist (Top 5) of 2023 CORS Healthcare Operational Research SIG Graduate Student Presentation Competition</strong>
   </div>
 </div>
 </li>
@@ -66,9 +66,9 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Beyond tokenism: The impact of board ethnic diversity on supply chain diversification</div>
-    <div class="author"><b>Yiwen Jin</b>, Minjia Li, Jenny Li Zhang</div>
+    <div class="author"><strong>Yiwen Jin</strong>, Minjia Li, Jenny Li Zhang</div>
     <div class="periodical"><em>Manuscript prepare to be submitted to Management Science</em></div>
-      -- <b>Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</b>
+      -- <strong>Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</strong>
   </div>
 </div>
 </li>
