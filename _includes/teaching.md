@@ -1,5 +1,5 @@
 ## Teaching
-### Instructor
+<h4 style="margin:0 10px 0;">Instructor</h4>  
 <ul style="margin:0 0 5px;">
   <li><autocolor>Instructor of COMM 204 Logistics and Operations Management, UBC Sauder School of Business</autocolor></li>
       −- Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: 33<br>
@@ -7,7 +7,7 @@
       −- Introductory course for students in the Bachelor of Commerce program. The course covers major fundamental areas in operations management, including process analysis, queueing, inventory, supply chain management.<br>
 </ul>
 
-### Teaching Assistant of Master Programs
+<h4 style="margin:0 10px 0;">Teaching Assistant of Master Programs</h4>  
 <ul style="margin:0 0 5px;">
        <li><autocolor>BASC 550 Operations and Supply Chain Management, <strong>International MBA program’s core course</strong></autocolor></li>
        <li><autocolor>BABS 550 Application of Statistics in Management, <strong>Master of Business Analytics program’s core course</strong></autocolor></li>
