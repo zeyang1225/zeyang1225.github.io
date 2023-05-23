@@ -11,7 +11,7 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://journals.sagepub.com/doi/pdf/10.1177/2292550319880921">High-risk plastic surgery: An analysis of 108,303 cases from the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP)</a></div>
+    <div class="title"><a href="https://journals.sagepub.com/doi/10.1177/2292550319880921">High-risk plastic surgery: An analysis of 108,303 cases from the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP)</a></div>
     <div class="author">Wan, M., Zhang, J.X., Ding, Y., <b>Jin, Y.</b>, Bedford, J., Nagarajan, M., Bucevska, M., Courtemanche, D.J. and Arneja, J.S.</div>
     <div class="periodical"><em>Plastic Surgery</em>, 28(1), pp.57-66.</div>
   </div>
