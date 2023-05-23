@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756677">The cost of task switching: Evidence from the emergency department</a></div>
     <div class="author"><strong>Yiwen Jin</strong>, Yige Duan, Yichuan Ding, Mahesh Nagarajan, Garth Hunte</div>
-    <div class="periodical"><em>Under 2nd round review, M&SOM</em></div>
+    <div class="periodical"><em>Reject and resubmit to M&SOM, under review</em></div>
       -- <strong>Finalist (Top 4) of 2023 POMS Best Healthcare Paper Competition</strong><br>
       -- <strong>Winner of 2021 CORS Healthcare SIG Best Paper in Statistical Methods/Econometric Modelling</strong>
   </div>
@@ -53,7 +53,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4048352">Adaptive server behavior to deviations in schedules and its consequences: Evidence from operating rooms</a></div>
-    <div class="author"><strong>Yiwen Jin</strong>, Yichuan Ding, Steven Shechter, Arneja Jugpal</div>
+    <div class="author"><strong>Yiwen Jin</strong>, Yichuan Ding, Steven Shechter, Jugpal Arneja</div>
     <div class="periodical"><em>Under 1st round review, M&SOM</em></div>
       -- <strong>Finalist (Top 5) of 2023 CORS Healthcare SIG Graduate Student Presentation Competition</strong>
   </div>
