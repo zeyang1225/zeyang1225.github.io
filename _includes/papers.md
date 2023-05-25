@@ -81,6 +81,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">When are doctors most needed? Risk-adaptive scheduling in emergency department</div>
     <div class="author">with Yichuan Ding, Garth Hunte</div>
+    <div class="periodical"><em>Manuscript under preparation</em></div>
   </div>
 </div>
 </li>
@@ -93,6 +94,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Coping with nurse burnout: Key drivers and operational interventions</div>
     <div class="author">with Steven Shechter, Yichuan Ding, Jugpal Arneja</div>
+    <div class="periodical"><em>Manuscript under preparation</em></div>
   </div>
 </div>
 </li>
