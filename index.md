@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="6hmuXTU0JXiDN_dXAsRBLWQoDYBteD4Bki2cq5sBwVY" />
 ---
 layout: homepage
 ---
