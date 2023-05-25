@@ -6,10 +6,10 @@ email: yiwen.jin@sauder.ubc.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yiwen Jin
-description: Yiwen Jin is a PhD candidate at UBC and he is on the market this year.
-canonical: https://yiwen-jin.github.io/
-
+ google_site_verification:  google-site-verification=qAdAmtxUutHHBbfdkcQW_Ok01fTADw1APGZBlpJn_sc
+ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster) 
+ enable_google_verification: false  # enables google site verification 
+ 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=yw-UeGgAAAAJ&hl=sl
