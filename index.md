@@ -8,6 +8,8 @@ Hello, and welcome to my website! I am currently a Ph.D. candidate in the [Opera
 
 My primary areas of interest lie in healthcare analytics. I am passionate about leveraging data-driven methods to facilitate innovative solutions in different healthcare delivery sites, from emergency departments to operating rooms. Throughout my academic journey, I have consistently been engaged in the development and application of empirical, optimization, and machine learning techniques to analyze complex healthcare datasets. My objective is to harness these tools to enhance both the efficacy and quality of healthcare delivery and to generate meaningful insights that can inform policy and decision-making. I am also interested in supply chain management and open to other fileds in operations management. 
 
+In the realm of teaching, I have a proven track record in delivering high-quality education, particularly in business analytics and machine learning. My commitment to teaching excellence has been recognized both through a strong evaluation score of 4.8/5.0 and the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence. I am dedicated to fostering an active learning environment that inspires students and caters to diverse learning styles.
+
 My CV can be found [here](assets/files/yiwen_cv.pdf).
 
 {% include_relative _includes/papers.md %}
