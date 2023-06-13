@@ -1,5 +1,5 @@
 ## Conference Presentations
-<h4 style="margin:0 10px 0;">Instructor</h4>  
+
 <ul style="margin:0 0 5px;">
   <li><autocolor>The cost of task switching: Evidence from emergency departments</autocolor></li>
       -- POMS, Orlando, May 2023; CanQueue, Montreal, Oct 2021; INFORMS Annual Meeting, Virtual, Sep 2021; INFORMS Healthcare Conference, Virtual, Jul 2021<br>
