@@ -7,7 +7,7 @@
       -- Introductory course for students in the Bachelor of Commerce program. The course covers major fundamental areas in operations management, including process analysis, queueing, inventory, supply chain management.<br>
 </ul>
 
-<h4 style="margin:0 10px 0;">Teaching Assistant of MBA and Analytics Programs</h4>  
+<h4 style="margin:0 10px 0;">Teaching Assistant of MBA and Master of Business Analytics</h4>  
 <ul style="margin:0 0 5px;">
        <li><autocolor>BASC 550 Operations and Supply Chain Management, <strong>International MBA core course</strong></autocolor></li>
        <li><autocolor>BABS 550 Application of Statistics in Management, <strong>Master of Business Analytics core course. It covers statistical methods and machine learning.</strong></autocolor></li>
