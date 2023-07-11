@@ -27,7 +27,7 @@
     <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4048352">Adaptive server behavior to deviations in schedules and its consequences: Evidence from operating rooms</a></div>
     <div class="author"><strong>Yiwen Jin</strong>, Yichuan Ding, Steven Shechter, Jugpal Arneja</div>
     <div class="periodical"><em>Under 1st round review, M&SOM</em></div>
-      -- <strong>Finalist, 2023 POM-China Best Student Paper Award</strong><br>
+      -- <strong>Third Place, 2023 POM-China Best Student Paper Award</strong><br>
       -- <strong>Finalist (Top 5), 2023 CORS Healthcare SIG Graduate Student Presentation Competition</strong>
   </div>
 </div>
