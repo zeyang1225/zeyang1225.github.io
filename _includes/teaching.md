@@ -3,9 +3,10 @@
 <h4 style="margin:0 10px 0;">Solo instructor</h4>  
 <ul style="margin:0 0 5px;">
   <li><autocolor>Instructor of COMM 294 Managerial Accounting, UBC Sauder School of Business</autocolor></li>
-      -- Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: 68 <br>
-      -- Winner of the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence<br>
-      -- Introductory course for students in the Bachelor of Commerce program. The course covers major fundamental areas in operations management, including process analysis, queueing, inventory, supply chain management.<br>
+  <ul>
+     <li> Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: 68 </li>
+      <li>Winner of the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence</li>
+     </ul>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>  
