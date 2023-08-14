@@ -1,5 +1,5 @@
-<h2 id="dissertation" style="margin: 2px 0px 0px;">Dissertation</h2>
- 
+<h2 id="research" style="margin: 2px 0px 0px;">Research</h2>
+ <h4 id="dissertation" style="margin: 2px 0px 0px;">Dissertation</h4>
 <div>
   <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
@@ -9,7 +9,7 @@
 </div>
 
 
-<h2 id="working paper" style="margin: 2px 0px 0px;">Working Papers</h2>
+<h4 id="working paper" style="margin: 2px 0px 0px;">Working Papers</h4>
  
 <div>
    <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
