@@ -8,7 +8,6 @@ Welcome! I am currently a Ph.D. candidate in the [Accounting and Information Sys
 
 I obtained the Bachelor in Economics from Wuhan University and Master in Finance from Massachusetts Institute of Technology.
 
- 
 <br>
  
 {% include_relative _includes/cv.md %}
