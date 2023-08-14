@@ -23,6 +23,11 @@ This study documents a positive and significant association between a firm’s u
   <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
  <ul>
      <li>  Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
+  <li><details>
+  <summary>Abstract</summary>
+We examine the determinants and consequences of an important but understudied strategy in managing political risks—firm political alignment (FPA). Using a GPT large language model, we measure FPA as the extent to which firms align their actions with government agendas as presented in annual reports. We argue that FPA increases firm legitimacy in the eyes of the government, thus mitigating political risks. We leverage two political events in China to test our hypotheses. First, as the anti-corruption campaign that started in 2012 and spread across different provinces over time serves as a staggered shock that reduces the effectiveness of political ties, we find that firms respond by increasing their FPA. Second, we find that the announcement of the common prosperity policy in August 2021 sharply increases policy uncertainty for non-SOEs. However, the extent of FPA largely mitigates the negative market reaction. Overall, our evidence suggests that firms resort to FPA as a means of mitigating political risk when the efficacy of political ties is weakened, and FPA is an effective corporate strategy for buffering against political risk.  
+
+</details></li>
   </ul>
    </ul>
 </div>
