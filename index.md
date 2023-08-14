@@ -20,3 +20,5 @@ Prior to UBC, I obtained my Bachelor in Economics from Wuhan University and Mast
  
 {% include_relative _includes/teaching.md %} 
  
+{% include_relative _includes/awards.md %} 
+ 
