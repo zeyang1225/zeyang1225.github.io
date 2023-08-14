@@ -1,5 +1,5 @@
 ## Teaching
-<h4 style="margin:0 10px 0;">Instructor</h4>  
+<h2 id="teaching" style="margin: 2px 0px 0px;">Teaching</h2>
 <ul style="margin:0 0 5px;">
   <li><autocolor>Instructor of COMM 294 Managerial Accounting, UBC Sauder School of Business</autocolor></li>
       -- Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: 68 <br>
