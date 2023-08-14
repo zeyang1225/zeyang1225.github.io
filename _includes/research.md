@@ -12,27 +12,30 @@
 <h4 style="margin:0 10px 0;" >Working Papers</h4>
  
 <div>
-   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
+  <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
  <ul>
      <li>  Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   </ul>
+   </ul>
 </div>
 
 
 <div>
-   <div class="title"> [3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
+   <ul>  <div class="title"> [3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
 Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University</li>
   </ul>
+    </ul>
 </div>
  
  
 <div>
-   <div class="title"> [4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
+   <ul>  <div class="title"> [4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
  <ul>
      <li>  Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</li>
   </ul>
+    </ul>
 </div>
 
   
