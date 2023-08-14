@@ -12,9 +12,9 @@ I am currently on the 2023-2024 academic job market.
 
  
 {% include_relative _includes/cv.md %}
-
+<br>
 {% include_relative _includes/papers.md %}
-
+<br>
 {% include_relative _includes/teaching.md %} 
-
+<br>
 {% include_relative _includes/services.md %}
