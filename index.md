@@ -10,7 +10,8 @@ My primary areas of interest lie in healthcare operations management, data analy
 
 I am currently on the 2023-2024 academic job market.
 
-My CV can be found [here](assets/files/yiwen_cv.pdf).
+ 
+{% include_relative _includes/cv.md %}
 
 {% include_relative _includes/papers.md %}
 
