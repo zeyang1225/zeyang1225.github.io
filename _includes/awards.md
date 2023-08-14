@@ -1,4 +1,6 @@
-## Awards and Grants
+ 
+ <h2 id="awards" style="margin: 2px 0px 0px;"> <br> 
+<br> Awards and Grants</h2>
 
 <ul style="margin:0 0 5px;">
  <li><autocolor>IMA Research Foundation Academic Grant ($14,000 USD), 2023 </autocolor></li>
