@@ -8,7 +8,7 @@ Welcome to my website! I am currently a Ph.D. candidate in Accounting at <a href
  
 My primary research interests...
  
-Prior to UBC, I obtained my Bachelor in Economics from Wuhan University and Master of Finance from <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a>.
+Prior to UBC, I obtained my Bachelor in Economics from <a href="https://en.whu.edu.cn/">Wuhan University</a> and Master of Finance from <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a>.
 
  
 
