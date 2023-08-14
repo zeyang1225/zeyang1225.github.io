@@ -1,19 +1,21 @@
 <h2 id="dissertation" style="margin: 2px 0px -15px;">Dissertation</h2>
-<br>
+<div>
   <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
      <li>   Under review at <em>The Accounting Review</em><br></li>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
      <li>   Presented at 2023 FMA (scheduled), 2023 AAA, 2023 HAC Conference, 2023 CAAA, 2023 Mcgill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
   </ul>
-  
+</div>
+
+
 <h2 id="working paper" style="margin: 2px 0px -15px;">Working Papers</h2>
-<br>
+<div>
    <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
  <ul>
      <li>  Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   </ul>
- 
+</div>
 
  <br>
     <div class="title">[3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
