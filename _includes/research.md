@@ -36,7 +36,7 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
 <div>
    <ul>  <div class="title"> [4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
  <ul>
-     <li>  Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</li>
+     <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
   </ul>
     </ul>
 </div>
