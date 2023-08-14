@@ -1,8 +1,9 @@
+<div>
 <br>
 <br>
 <h2 id="research" style="margin: 2px 0px 0px;">Research</h2>
  <h4 style="margin:0 10px 0;"  >Dissertation</h4>
-<div>
+
  <ul>  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
