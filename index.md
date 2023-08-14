@@ -16,7 +16,7 @@ I am on the <strong >2023-2024 academic job market </strong>. Please feel free t
  
 {% include_relative _includes/cv.md %}
  
- 
+{% include_relative _includes/research.md %}
  
 {% include_relative _includes/teaching.md %} 
  
