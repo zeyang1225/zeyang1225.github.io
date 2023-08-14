@@ -2,7 +2,7 @@
  <h2 id="awards" style="margin: 2px 0px 0px;"> <br> 
 <br> Awards and Grants</h2>
 
-<ul  
+<ul>
  <li><autocolor>IMA Research Foundation Academic Grant ($14,000 USD), 2023 </autocolor></li>
  <li><autocolor>UBC Sauder EDI Research Catalyst Grant ($5,000 CAD), 2023 </autocolor></li>
  <li><autocolor>British Columbia Graduate Scholarship ($15,000 CAD), 2022 </autocolor></li>
