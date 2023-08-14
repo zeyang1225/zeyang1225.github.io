@@ -1,4 +1,3 @@
-
 <h2 id="teaching" style="margin: 2px 0px 0px;">Teaching</h2>
 
 <h4 style="margin:0 10px 0;">Solo instructor</h4>  
