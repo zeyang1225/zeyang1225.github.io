@@ -4,7 +4,7 @@ layout: homepage
 
 ## Short Bio
 
-Hello, and welcome to my website! I am currently a Ph.D. candidate in the [Accounting and Information System Division](https://www.sauder.ubc.ca/thought-leadership/divisions/accounting-information-systems) at UBC Sauder School of Business.  
+Welcome! I am currently a Ph.D. candidate in the [Accounting and Information System Division](https://www.sauder.ubc.ca/thought-leadership/divisions/accounting-information-systems) at UBC Sauder School of Business.  
 
 I obtained the Bachelor in Economics from Wuhan University and Master in Finance from Massachusetts Institute of Technology.
 
