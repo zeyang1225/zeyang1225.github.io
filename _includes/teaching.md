@@ -6,8 +6,9 @@
 <ul style="margin:0 0 5px;">
   <li><autocolor>Instructor of COMM 294 Managerial Accounting, UBC Sauder School of Business</autocolor></li>
   <ul>
-     <li> Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: 68 </li>
-      <li>Winner of the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence</li>
+     <li> Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: <strong>68</strong> </li>
+      <li> Received the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence</li>
+      <li> Recognized by Dean with a Teaching Execllence Commendation </li>
      </ul>
 </ul>
 
