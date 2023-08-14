@@ -17,20 +17,24 @@
   </ul>
 </div>
 
- <br>
-    <div class="title">[3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
+
+<div>
+   <div class="title"> [3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
 Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University</li>
   </ul>
+</div>
  
-
-<br>
-    <div class="title">[4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
-  <ul>
+ 
+<div>
+   <div class="title"> [4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
+ <ul>
      <li>  Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</li>
   </ul>
- 
+</div>
+
+  
  
 <h2 id="publications" style="margin: 2px 0px -15px;">Work in progress</h2>
   <div class="title"> [5] Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign <em> with Emily Wang and Jenny Li Zhang </em></div>
