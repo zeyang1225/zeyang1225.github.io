@@ -67,6 +67,20 @@ University, Waseda University, Concordia University </strong>
 </ol>
 </div>
 
-
+<h4 style="margin:0 10px 0;">Work in progress</h4>  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Cam-
+paign </div>
+    <div class="author">with Emily Wang and Jenny Li Zhang </div>
+  </div>
+</div>
+</li>
+ 
+</ol>
+</div>
 
 
