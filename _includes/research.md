@@ -44,4 +44,10 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
   
 
 
+<h4 style="margin:0 10px 0;" >Work in Progress</h4>
+ 
+<div>
+  <ul>   <div class="title"> [5] Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign <em> with Emily Wang and Jenny Li Zhang </em> </div>
+   </ul>
+</div>
 
