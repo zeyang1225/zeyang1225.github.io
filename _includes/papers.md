@@ -11,7 +11,7 @@
 
 <h2 id="working paper" style="margin: 2px 0px -15px;">Working Papers</h2>
 <div>
-   <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
+   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li, Jenny Li Zhang </em> </div>
  <ul>
      <li>  Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   </ul>
