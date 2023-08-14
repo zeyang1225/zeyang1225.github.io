@@ -1,6 +1,6 @@
-<br>
  
- <h2 id="teaching" style="margin: 2px 0px 0px;">Teaching</h2>
+ <h2 id="teaching" style="margin: 2px 0px 0px;"> <br> 
+<br> Teaching</h2>
 
 <h4 style="margin:0 10px 0;">Solo instructor</h4>  
 <ul style="margin:0 0 5px;">
