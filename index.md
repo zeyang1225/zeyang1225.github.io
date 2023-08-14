@@ -12,12 +12,12 @@ I obtained the Bachelor in Economics from Wuhan University and Master in Finance
 
 I am on the <strong >2023-2024 academic job market </strong>.
 
-<br>
+ 
  
 {% include_relative _includes/cv.md %}
-<br>
+ 
 {% include_relative _includes/research.md %}
-<br>
+ 
 {% include_relative _includes/teaching.md %} 
-<br>
+ 
 {% include_relative _includes/services.md %}
