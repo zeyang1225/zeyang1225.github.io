@@ -8,7 +8,7 @@
   <ul>
      <li> Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: <strong>68</strong> </li>
       <li> Received the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence</li>
-      <li> Recognized by Dean with a [Teaching Execllence Commendation](assets/files/Teaching Commendation Letter - Li.pdf) </li>
+      <li> Recognized by Dean with a [Teaching Execllence Commendation](assets/files/yiwen_cv.pdf). </li>
      </ul>
 </ul> 
 
