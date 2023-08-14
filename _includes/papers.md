@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Dissertation</h2>
 <br>
-  <div class="title"> [1] Climate-linked Pay and Supply Chain Management </a></div>
+  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
      <li>   Under review at <em>The Accounting Review</em><br></li>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
