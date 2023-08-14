@@ -13,10 +13,6 @@
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>  
 <ul style="margin:0 0 5px;">
- BAAC 501 Financial Statement Analysis (MBA) \hfill   Spring 2022\\
-      COMM 294 Managerial Accounting (Undergraduate)\hfill Spring 2022/Fall 2020\\
-     COMR 457 Fundamental Financial Accounting (Undergraduate)\hfill  Fall 2021
- 
        <li><autocolor>BAAC 501 Financial Statement Analysis <strong> (MBA)</strong></autocolor></li>
        <li><autocolor>COMM 294 Managerial Accounting <strong>(Undergraduate)</strong></autocolor></li>
        <li><autocolor>COMR 457 Fundamental Financial Accounting <strong>(Undergraduate)</strong></autocolor></li> 
