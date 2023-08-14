@@ -9,7 +9,7 @@ Hello, and welcome to my website! I am currently a Ph.D. candidate in the [Accou
  
 
 I am currently on the 2023-2024 academic job market.
-
+<br>
  
 {% include_relative _includes/cv.md %}
 <br>
