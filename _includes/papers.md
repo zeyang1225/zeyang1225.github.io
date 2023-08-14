@@ -16,7 +16,6 @@
  
 
  <br>
-<div class="pub-row">
     <div class="title">[3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
 Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
@@ -25,7 +24,6 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
  
 
 <br>
-<div class="pub-row">
     <div class="title">[4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
   <ul>
      <li>  Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</li>
