@@ -18,4 +18,3 @@ My primary research interests...I obtained the Bachelor in Economics from Wuhan 
  
 {% include_relative _includes/teaching.md %} 
  
-{% include_relative _includes/services.md %}
