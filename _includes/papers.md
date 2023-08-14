@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Dissertation</h2>
+<br>
   <div class="title"> [1] Climate-linked Pay and Supply Chain Management </a></div>
   <ul>
      <li>   Under review at <em>The Accounting Review</em><br></li>
@@ -8,6 +9,7 @@
   </div>
   
 <h2 id="publications" style="margin: 2px 0px -15px;">Working Papers</h2>
+<br>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
@@ -17,7 +19,8 @@
      <li>   Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   </ul>
 </div>
- 
+
+ <br>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
@@ -29,7 +32,7 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
   </ul>
 </div>
 
-
+<br>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
