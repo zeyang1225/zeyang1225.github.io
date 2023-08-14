@@ -13,8 +13,11 @@
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>  
 <ul style="margin:0 0 5px;">
-       <li><autocolor>BASC 550 Operations and Supply Chain Management, <strong>International MBA core course</strong></autocolor></li>
-       <li><autocolor>BABS 550 Application of Statistics in Management, <strong>Master of Business Analytics core course. It covers statistical methods and machine learning.</strong></autocolor></li>
-       <li><autocolor>BABS 517 Decision Analysis Under Uncertainty, <strong>Master of Business Analytics core course</strong></autocolor></li>
-       <li><autocolor>BABS 506 Analyzing and Modelling Uncertainty, <strong>Master of Business Analytics core course</strong></autocolor></li>
+ BAAC 501 Financial Statement Analysis (MBA) \hfill   Spring 2022\\
+      COMM 294 Managerial Accounting (Undergraduate)\hfill Spring 2022/Fall 2020\\
+     COMR 457 Fundamental Financial Accounting (Undergraduate)\hfill  Fall 2021
+ 
+       <li><autocolor>BAAC 501 Financial Statement Analysis <strong> (MBA)</strong></autocolor></li>
+       <li><autocolor>COMM 294 Managerial Accounting <strong>(Undergraduate)</strong></autocolor></li>
+       <li><autocolor>COMR 457 Fundamental Financial Accounting <strong>(Undergraduate)</strong></autocolor></li> 
 </ul>
