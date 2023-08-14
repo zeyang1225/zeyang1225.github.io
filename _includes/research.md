@@ -1,10 +1,10 @@
-<div>
  
 <h2 id="research" style="margin: 2px 0px 0px;"> <br> 
 <br> Research</h2>
  <h4 style="margin:0 10px 0;"  >Dissertation</h4>
 
- <ul>  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
+<div>
+  <ul>  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
      <li>   Presented at 2023 FMA (scheduled), 2023 AAA, 2023 HAC Conference, 2023 CAAA, 2023 Mcgill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
