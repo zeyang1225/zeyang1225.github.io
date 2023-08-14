@@ -12,7 +12,7 @@ I obtained the Bachelor in Economics from Wuhan University and Master in Finance
  
 {% include_relative _includes/cv.md %}
 <br>
-{% include_relative _includes/papers.md %}
+{% include_relative _includes/research.md %}
 <br>
 {% include_relative _includes/teaching.md %} 
 <br>
