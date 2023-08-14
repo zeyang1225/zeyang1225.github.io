@@ -25,7 +25,7 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Navigating Political Risks: The Role of Firm Political Alignment</div>
+    <div class="title">[2] Navigating Political Risks: The Role of Firm Political Alignment</div>
     <div class="author">with Ping Jiang, Jing Li, Jenny Li Zhang </div>
     <div class="periodical"><em>Manuscript under preparation</em></div>
       -- <strong>Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</strong>
@@ -39,7 +39,7 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Voluntary Climate Disclosure: A Tale of Two Venues</div>
+    <div class="title">[3] Voluntary Climate Disclosure: A Tale of Two Venues</div>
     <div class="author">with Sanjay Banerjee, Ailin Chen, Vikas Mehrotra and Rajesh Vijayaraghavan </div>
     <div class="periodical"><em>Manuscript under preparation</em></div>
       -- <strong>Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto
@@ -54,7 +54,7 @@ University, Waseda University, Concordia University </strong>
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Beyond tokenism: The impact of board ethnic diversity on supply chain diversification</div>
+    <div class="title">[4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification</div>
     <div class="author">with Yiwen Jin and Jenny Li Zhang </div>
     <div class="periodical"><em>Manuscript under preparation</em></div>
       -- <strong>Winner of $5,000 EDI Catalyst Grant of UBC Sauder School of Business</strong>
