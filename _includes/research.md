@@ -23,6 +23,7 @@ This study documents a positive and significant association between a firm’s u
 <div>
   <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
  <ul>
+     <li>  <strong> Revise and Resubmit at Journal of Accounting Economics </strong> <br></li>
      <li>  Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   <li><details>
   <summary>Abstract</summary>
