@@ -34,7 +34,7 @@ We examine the determinants and consequences of an important but understudied st
 
 
 <div>
-   <ul>  <div class="title"> [3] Voluntary Climate Disclosure: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
+   <ul>  <div class="title"> [3] Voluntary Climate Disclosures: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
 Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University</li>
