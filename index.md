@@ -11,10 +11,6 @@ My primary research interests...
 I am on the <strong >2023-2024 academic job market </strong>. Please feel free to contact me if you are interested.
 
  
-
- 
- 
-{% include_relative _includes/cv.md %}
  
 {% include_relative _includes/research.md %}
  
