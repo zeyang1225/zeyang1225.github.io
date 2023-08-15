@@ -40,6 +40,11 @@ We examine the determinants and consequences of an important but understudied st
 Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University</li>
+    <li><details>
+  <summary>Abstract</summary>
+
+
+</details></li>
   </ul>
     </ul>
 </div>
