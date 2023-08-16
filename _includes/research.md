@@ -58,7 +58,7 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
   <li><details>
   <summary>Abstract</summary>
-We examine whether and how board ethnic diversity shapes the supply chain structure of firms. Leveraging a California bill as an exogenous shock, we show that greater board ethnic diversity leads to a more diversified supply chain. Such diversification is primarily driven by greater information accessibility to the supply chain and heightened risk aversion. We find that firms with ethnically diverse boards seek suppliers from similar cultural origins and achieve more efficient inventory performance. Additionally, the associations between board ethnic diversity and supply chain diversification are more pronounced in firms with inferior supplier information and elevated supply chain risks.
+We examine whether and how board ethnic diversity shapes the supply chain structure of firms. Leveraging a California bill as an exogenous shock, we show that greater board ethnic diversity leads to a more diversified supply chain. Such diversification is primarily driven by greater information accessibility to upstream suppliers and heightened risk aversion. We find that firms with ethnically diverse boards seek suppliers from similar cultural origins and achieve more efficient inventory performance. Additionally, the associations between board ethnic diversity and supply chain diversification are more pronounced in firms with inferior supplier information and elevated supply chain risks.
    
 </details></li>
 
