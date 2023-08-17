@@ -6,7 +6,6 @@
 <div>
   <ul>  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
-   
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
      <li>   Presented at 2023 FMA (scheduled), 2023 AAA, 2023 HAC Conference, 2023 CAAA, 2023 Mcgill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
    <li>   <details>
@@ -23,7 +22,6 @@ This study documents a positive and significant association between a firm’s u
 <div>
   <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
  <ul>
- 
      <li>  Presented at 2023 CICF, 2023 HAC Conference, 2023 Mcgill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   <li><details>
   <summary>Abstract</summary>
@@ -39,7 +37,6 @@ We examine the determinants and consequences of an important but understudied st
    <ul>  <div class="title"> [3] Voluntary Climate Disclosures: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
 Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
-  
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University</li>
     <li><details>
   <summary>Abstract</summary>
@@ -54,7 +51,6 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
 <div>
    <ul>  <div class="title"> [4] Beyond tokenism: The impact of board ethnic diversity on supply chain diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
  <ul>
-     
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
   <li><details>
   <summary>Abstract</summary>
