@@ -2,7 +2,7 @@
  <h2 id="teaching" style="margin: 2px 0px 0px;"> <br> 
 <br> Teaching</h2>
 
-I enjoy helping students learn! I am passionate to teach both financial and managerial accounting while also eager to integrate emerging topics and techniques into the classrooms, i.e., ESG, large language model, data analytics, etc. 
+I enjoy helping students learn! I am passionate to teach both financial and managerial accounting while also eager to integrate emerging topics and techniques into the classrooms, i.e., ESG, AI, etc. 
 
 <h4 style="margin:0 10px 0;">Solo instructor</h4>  
 <ul style="margin:0 0 5px;">
