@@ -7,7 +7,7 @@
  <li><autocolor>UBC Sauder EDI Research Catalyst Grant ($5,000 CAD), 2023 </autocolor></li>
  <li><autocolor>British Columbia Graduate Scholarship ($15,000 CAD), 2022 </autocolor></li>
  <li><autocolor>AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium Fellow, 2022</autocolor></li>
- <li><autocolor>President's Academic Excellence Initiative PhD Award, 2020-2023  </autocolor></li>
- <li><autocolor> Dean Earle D MacPhee Memorial Fellowship , 2019-2023  </autocolor></li>
+ <li><autocolor>UBC President's Academic Excellence Initiative PhD Award, 2020-2023  </autocolor></li>
+ <li><autocolor> UBC Dean Earle D MacPhee Memorial Fellowship , 2019-2023  </autocolor></li>
 </ul>
 
