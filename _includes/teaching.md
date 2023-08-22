@@ -4,7 +4,7 @@
 
 I enjoy helping students learn! I am passionate to teach both financial and managerial accounting while also eager to integrate emerging topics and techniques into the classrooms, i.e., ESG, AI, etc. 
 
-<h4 style="margin:0 10px 0;">Solo instructor</h4>  
+<h4 style="margin:0 0px 0;">Solo instructor</h4>  
 <ul style="margin:0 0 5px;">
   <li><autocolor> COMM 294 Managerial Accounting <strong>(Undergraduate)</strong>, UBC Sauder School of Business</autocolor></li>
   <ul>
