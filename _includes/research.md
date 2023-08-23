@@ -40,8 +40,7 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University, 2022 CSFN, Development Bank of Japan</li>
     <li><details>
   <summary>Abstract</summary>
-
-
+We examine the determinants and consequences of firms’ choice between two venues for voluntary climate disclosure - corporate social responsibility (CSR) reports and the Carbon Disclosure Project (CDP). In the determinants, we find the prior CSR disclosure is positively associated with its CDP disclosure, but not vice versa. Firms with prior CSR are less likely to disclose via the CDP when having more climate-related shareholder resolutions, greater carbon impact, and tighter financial constraints. Following the CDP disclosure initiation, firms experience higher liquidity, ESG ratings, analyst coverage, and lower emissions – although these findings only apply to firms without prior CSR disclosure.
 </details></li>
   </ul>
     </ul>
