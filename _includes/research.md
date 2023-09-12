@@ -7,7 +7,7 @@
   <ul>  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
   <ul>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
-     <li>   Presented at 2023 FMA (scheduled), 2023 ECGI Young Scholar Workshop (invited), 2023 AAA, 2023 HAC Conference, 2023 CAAA, 2023 Mcgill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
+     <li>   Presented at 2023 ECGI Young Scholar Workshop (invited), 2023 AAA, 2023 HAC Conference, 2023 CAAA, 2023 Mcgill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
    <li>   <details>
   <summary>Abstract</summary>
 This study documents a positive and significant association between a firm’s use of climate-linked metrics in executive pay and its outsourced emissions to the supply chain. Using a sample of 870 listed U.S. firms, I find that firms with better internal corporate governance, better financial performance, and lower growth opportunities are more likely to use climate-linked pay. Such pay schemes are followed by an increase in upstream suppliers’ emissions, and a decrease in firms’ direct emissions. This effect is more pronounced among firms with greater climate pressure, greater bargaining power over suppliers, and lower external monitoring. To explore potential mechanisms, I show that firms with climate-linked pay facilitate emissions outsourcing by initiating (terminating) fewer (more) contracts with suppliers from regions with higher emissions costs. Overall, my findings highlight the potential impact of climate-linked metrics in executive compensation on the supply chain.
