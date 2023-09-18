@@ -8,10 +8,11 @@ I enjoy helping students learn! I am passionate to teach both financial and mana
 <ul style="margin:0 0 0;">
   <li><autocolor> COMM 294 Managerial Accounting <strong>(Undergraduate)</strong>, UBC Sauder School of Business</autocolor></li>
   <ul>
+   <li>  Introduction to the development and use of accounting information for management planning and control and the development of cost information for financial reports. </li>
      <li> Teaching Evaluation: <strong>4.8/5.0</strong>, Class size: <strong>68</strong> </li>
       <li> Received the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence</li>
       <li> Recognized by Dean with a <a href="assets/files/Teaching Commendation Letter - Li.pdf">Commendation in Teaching Excellence</a>. </li>
-    <li>  Introduction to the development and use of accounting information for management planning and control and the development of cost information for financial reports. </li>
+     
      </ul>
 </ul> 
 
