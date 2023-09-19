@@ -47,7 +47,7 @@ We examine the determinants and consequences of firms’ choice between two venu
  
  
 <div>
-   <ul>  <div class="title"> [4] Beyond tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
+   <ul>  <div class="title"> [4] Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
  <ul>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
   <li><details>
