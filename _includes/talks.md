@@ -1,17 +1,25 @@
 ## Conference Presentations
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>The cost of task switching: Evidence from emergency departments</autocolor></li>
-      -- POMS, Orlando, May 2023; CanQueue, Montreal, Oct 2021; INFORMS Annual Meeting, Virtual, Sep 2021; INFORMS Healthcare Conference, Virtual, Jul 2021<br>
-</ul>
-
-<ul style="margin:0 0 5px;">
-  <li><autocolor>Adaptive server behavior to deviations in schedules and its consequences: Evidence from operating rooms</autocolor></li>
-      -- CORS, Montreal, May 2023; Chung Research Day, UBC Department of Surgery, Nov 2022; INFORMS Annual Meeting, Indianapolis, Oct 2022; CORS, Vancouver, Jun 2022<br>
-</ul>
-
-<ul style="margin:0 0 5px;">
-  <li><autocolor>When are doctors most needed? A risk-adaptive scheduling in emergency department</autocolor></li>
-      -- INFORMS Annual Meeting, Virtual, Oct 2020; INFORMS Annual Meeting, Seattle, Oct 2019<br>
+  <li><autocolor>IMA Conference (scheduled), San Antonio 2024</autocolor></li>
+   
+  <li><autocolor>33rd Annual Conference on Financial Economics and Accounting (CFEA), New Brunswick 2023</autocolor></li>
+ 
+  <li><autocolor>Contemporary Accounting Research (CAR) Conference, Vancouver 2023</autocolor></li>
+  <li><autocolor>Boston Accounting Students Symposium, Boston 2023</autocolor></li>
+  <li><autocolor>AAA Annual Meeting, Denver 2023</autocolor></li>
+  <li><autocolor>China International Conference in Finance (CICF), Shanghai 2023</autocolor></li>
+  <li><autocolor>CAPANA Conference, Kunming 2023</autocolor></li>
+  <li><autocolor>Haskayne and Fox Accounting Conference, Lake Louise 2023</autocolor></li>
+  <li><autocolor>Rutgers Supply Chain Management in the Post-Pandemic and AI Age Conference, Virtual 2023 </autocolor></li>
+  <li><autocolor>McGill Accounting Research Conference, Montreal 2023</autocolor></li>
+  <li><autocolor>CAAA Annual Meeting, Québec City 2023</autocolor></li>
+  <li><autocolor>POMS Conference, Orlando 2023</autocolor></li>
+  <li><autocolor>Hawaii Accounting Research Conference, Honolulu 2023 </autocolor></li>
+  <li><autocolor>UBC/Oregon/Washington Conference (UBCOW) Conference, Seattle 2023</autocolor></li>
+  <li><autocolor>Canadian Sustainable Finance Network (CSFN) Conference, Victoria Island 2023 </autocolor></li>
+  <li><autocolor>AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, Dallas 2023 </autocolor></li>
+  <li><autocolor>FARS Midyear Meeting, Virtual 2023 </autocolor></li>
+  <li><autocolor>FARS Doctoral Consortium, Virtual 2023</autocolor></li>
 </ul>
 
