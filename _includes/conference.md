@@ -1,4 +1,6 @@
-## Conference Presentation and Particpation
+ 
+<h2 id="conference" style="margin: 2px 0px 0px;"> <br> 
+<br> Conference Presentation and Particpation</h2>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>IMA Conference (scheduled), San Antonio 2024</autocolor></li>
