@@ -1,4 +1,4 @@
-## Conference Particpation
+## Conference Presentation and Particpation
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>IMA Conference (scheduled), San Antonio 2024</autocolor></li>
