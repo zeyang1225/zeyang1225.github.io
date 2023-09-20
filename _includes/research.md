@@ -20,7 +20,7 @@ This study documents a positive and significant association between a firm’s u
 <h4 style="margin:0 10px 0;" >Working Papers</h4>
  
 <div>
-  <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang, Jing Li and Jenny Li Zhang </em> </div>
+  <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
  <ul>
      <li>  Presented at 2023 China International Conference in Finance, 2023 Haskayne and Fox Accounting Conference, 2023 McGill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   <li><details>
@@ -33,8 +33,8 @@ We examine the determinants and consequences of an important but understudied st
 
 
 <div>
-   <ul>  <div class="title"> [3] Voluntary Climate Disclosures: A Tale of Two Venues <em> with Sanjay Banerjee, Ailin Chen, Vikas
-Mehrotra and Rajesh Vijayaraghavan </em> </div>
+   <ul>  <div class="title"> [3] Voluntary Climate Disclosures: A Tale of Two Venues <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
+Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University, 2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
     <li><details>
@@ -47,7 +47,7 @@ We examine the determinants and consequences of firms’ choice between two venu
  
  
 <div>
-   <ul>  <div class="title"> [4] Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification <em> with Yiwen Jin and Jenny Li Zhang </em> </div>
+   <ul>  <div class="title"> [4] Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification <em> with Yiwen Jin (UBC) and Jenny Li Zhang (UBC)</em> </div>
  <ul>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
   <li><details>
@@ -66,7 +66,7 @@ We examine whether and how board ethnic diversity shapes the supply chain struct
 <h4 style="margin:0 10px 0;" >Work in Progress</h4>
  
 <div>
-  <ul>   <div class="title"> [5] Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign <em> with Emily Wang and Jenny Li Zhang </em> </div>
+  <ul>   <div class="title"> [5] Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign <em> with Emily Wang (HKUST) and Jenny Li Zhang (UBC)</em> </div>
    </ul>
 </div>
 
