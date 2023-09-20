@@ -18,10 +18,10 @@
   <li><autocolor>CAAA Annual Meeting, Québec City 2023</autocolor></li>
   <li><autocolor>POMS Conference, Orlando 2023</autocolor></li>
   <li><autocolor>Hawaii Accounting Research Conference, Honolulu 2023 </autocolor></li>
-  <li><autocolor>UBC/Oregon/Washington Conference (UBCOW) Conference, Seattle 2023</autocolor></li>
-  <li><autocolor>Canadian Sustainable Finance Network (CSFN) Conference, Victoria Island 2023 </autocolor></li>
-  <li><autocolor>AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, Dallas 2023 </autocolor></li>
-  <li><autocolor>FARS Midyear Meeting, Virtual 2023 </autocolor></li>
-  <li><autocolor>FARS Doctoral Consortium, Virtual 2023</autocolor></li>
+  <li><autocolor>UBC/Oregon/Washington Conference (UBCOW) Conference, Seattle 2022</autocolor></li>
+  <li><autocolor>Canadian Sustainable Finance Network (CSFN) Conference, Victoria Island 2022 </autocolor></li>
+  <li><autocolor>AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, Dallas 2022 </autocolor></li>
+  <li><autocolor>FARS Midyear Meeting, Virtual 2022 </autocolor></li>
+  <li><autocolor>FARS Doctoral Consortium, Virtual 2022</autocolor></li>
 </ul>
 
