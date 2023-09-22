@@ -9,7 +9,7 @@ I enjoy helping students learn! I am passionate to teach both financial and mana
   <li><autocolor> COMM 294 Managerial Accounting <strong>(Undergraduate)</strong>, UBC Sauder School of Business</autocolor></li>
   <ul>
        <li> Introduction to accounting information for management planning, control, and cost reporting. </li>
-       <li> Teaching Evaluation (<a href="assets/files/University of British Columbia - 2022W1 UBC Individual Instructor Report for COMM 294 102 - Managerial Accounting (Minjia Li).pdf">Report available here</a>): <strong>4.8/5.0</strong>, Class size: <strong>68</strong>. </li>
+       <li> Teaching Evaluation (<a href="assets/files/University of British Columbia - 2022W1 UBC Individual Instructor Report for COMM 294 102 - Managerial Accounting (Minjia Li).pdf">report available here</a>): <strong>4.8/5.0</strong>, Class size: <strong>68</strong>. </li>
       <li> Received the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence and recognized by Dean with a <a href="assets/files/Teaching Commendation Letter - Li.pdf">Commendation in Teaching Excellence</a>. </li> 
      </ul>
 </ul> 
