@@ -6,7 +6,7 @@
 <div>
   <ul>  <div class="title"> [1] <strong> Climate-linked Pay and Supply Chain Management </strong>  </div>
   <ul>
-     <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
+     <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call (Up to three receipients) <br></li>
      <li>   Presented at 33rd Conference on Financial Economics and Accounting, 2023 Boston Accounting Student Symposium, 2023 ECGI Young Scholar Workshop (invited), 2023 AAA Annual Meeting, 2023 Haskayne and Fox Accounting Conference, 2023 CAAA Annual Meeting, 2023 McGill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
   
   </ul>
