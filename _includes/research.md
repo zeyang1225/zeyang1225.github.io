@@ -4,7 +4,7 @@
  <h4 style="margin:0 10px 0;"  >Dissertation</h4>
 
 <div>
-  <ul>  <div class="title"> [1] Climate-linked Pay and Supply Chain Management  </div>
+  <ul>  <div class="title"> [1] <strong> Climate-linked Pay and Supply Chain Management </strong>  </div>
   <ul>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call <br></li>
      <li>   Presented at 33rd Conference on Financial Economics and Accounting, 2023 Boston Accounting Student Symposium, 2023 ECGI Young Scholar Workshop (invited), 2023 AAA Annual Meeting, 2023 Haskayne and Fox Accounting Conference, 2023 CAAA Annual Meeting, 2023 McGill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
@@ -16,7 +16,7 @@
 <h4 style="margin:0 10px 0;" >Working Papers</h4>
  
 <div>
-  <ul>   <div class="title"> [2] Navigating Political Risk: The Role of Firm Political Alignment <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
+  <ul>   <div class="title"> [2] <strong> Navigating Political Risk: The Role of Firm Political Alignment </strong> <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
  <ul>
      <li>  Presented at 2023 China International Conference in Finance, 2023 Haskayne and Fox Accounting Conference, 2023 McGill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
   <li><details>
@@ -29,7 +29,7 @@ We examine the determinants and consequences of an important but understudied st
 
 
 <div>
-   <ul>  <div class="title"> [3] Voluntary Climate Disclosures: A Tale of Two Venues <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
+   <ul>  <div class="title"> [3] <strong> Voluntary Climate Disclosures: A Tale of Two Venues </strong> <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
 Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University, 2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
@@ -43,7 +43,7 @@ We examine the determinants and consequences of firms’ choice between two venu
  
  
 <div>
-   <ul>  <div class="title"> [4] Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification <em> with Yiwen Jin (UBC) and Jenny Li Zhang (UBC)</em> </div>
+   <ul>  <div class="title"> [4]<strong> Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification </strong> <em> with Yiwen Jin (UBC) and Jenny Li Zhang (UBC)</em> </div>
  <ul>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
   <li><details>
@@ -62,9 +62,9 @@ We examine whether and how board ethnic diversity shapes the supply chain struct
 <h4 style="margin:0 10px 0;" >Work in Progress</h4>
  
 <div>
-  <ul>   <div class="title"> [5] Human Capital Disclosure and Employee Wellness <em> with Jenna D'Adduzio (UBC), Gilles Hilary (GU) and Yifang Xie (GU)</em> </div>
+  <ul>   <div class="title"> [5]<strong> Human Capital Disclosure and Employee Wellness</strong> <em> with Jenna D'Adduzio (UBC), Gilles Hilary (GU) and Yifang Xie (GU)</em> </div>
    </ul>
-  <ul>   <div class="title"> [6] Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign <em> with Emily Wang (HKUST) and Jenny Li Zhang (UBC)</em> </div>
+  <ul>   <div class="title"> [6]<strong> Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign </strong> <em> with Emily Wang (HKUST) and Jenny Li Zhang (UBC)</em> </div>
    </ul>
 </div>
 
