@@ -32,7 +32,7 @@ We examine the determinants and consequences of an important but understudied st
 
 
 <div>
-   <ul>  <div class="title"> [3] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575733">Voluntary Climate Disclosures: A Tale of Two Venues</a> </strong> <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
+   <ul>  <div class="title"> [3] <strong> Voluntary Climate Disclosures: A Tale of Two Venues </strong> <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
 Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
  <ul>
      <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University, 2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
