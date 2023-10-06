@@ -5,7 +5,7 @@
 <ul style="margin:0 0 5px;">
   <li><autocolor>IMA Conference (scheduled), San Antonio 2024</autocolor></li>
   <li><autocolor>MAS Midyear Meeting, Orlando 2024</autocolor></li>
-  <li><autocolor>NBER Conference on Compensation of Top Executives: Determinants and Consequences, Cambridge 2024</autocolor></li>
+  <li><autocolor>NBER Conference on Compensation of Top Executives: Determinants and Consequences, Cambridge 2023</autocolor></li>
   <li><autocolor>33rd Annual Conference on Financial Economics and Accounting (CFEA), New Brunswick 2023</autocolor></li>
   <li><autocolor>Contemporary Accounting Research (CAR) Conference, Vancouver 2023</autocolor></li>
   <li><autocolor>Boston Accounting Students Symposium, Boston 2023</autocolor></li>
