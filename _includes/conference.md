@@ -7,6 +7,7 @@
   <li><autocolor>MAS Midyear Meeting (scheduled), Orlando 2024</autocolor></li>
   <li><autocolor>NBER Conference on Compensation of Top Executives: Determinants and Consequences (scheduled), Cambridge 2023</autocolor></li>
   <li><autocolor>33rd Annual Conference on Financial Economics and Accounting (CFEA), New Brunswick 2023</autocolor></li>
+ <li><autocolor> JMAR Rookie Camp, Virtual 2023</autocolor></li>
   <li><autocolor>Contemporary Accounting Research (CAR) Conference, Vancouver 2023</autocolor></li>
   <li><autocolor>Boston Accounting Students Symposium, Boston 2023</autocolor></li>
   <li><autocolor>AAA Annual Meeting, Denver 2023</autocolor></li>
