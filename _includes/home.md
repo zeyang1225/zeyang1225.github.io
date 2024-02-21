@@ -8,4 +8,4 @@ Welcome to my website! I am a 5th-year Ph.D. candidate in Accounting at <a href=
 
 Prior to joining UBC, I obtained my Master of Finance from <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a>, and the Bachelor in Economics from <a href="https://en.whu.edu.cn/">Wuhan University</a>. 
 
-I am actively on the <strong >2023-2024 academic job market </strong>. Please feel free to reach out and connect!
+Please feel free to reach out and connect!
