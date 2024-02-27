@@ -12,6 +12,4 @@ layout: homepage
 {% include_relative _includes/teaching.md %} 
  
 {% include_relative _includes/awards.md %} 
- 
-{% include_relative _includes/conference.md %} 
- 
+  
