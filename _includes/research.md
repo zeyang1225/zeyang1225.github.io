@@ -62,16 +62,4 @@ We examine whether and how board ethnic diversity shapes the supply chain struct
 
   
 
-
-<h4 style="margin:0 10px 0;" >Work in Progress</h4>
  
-<div>
-  <ul>   <div class="title"> [5]<strong> Human Capital Disclosure and Employee Wellness</strong> <em> with Jenna D'Adduzio (UBC), Gilles Hilary (GU) and Yifang Xie (GU)</em> </div>
-   </ul>
-  <ul>   <div class="title"> [6]<strong> Missing Pessimism: How Do Financial Analysts Respond to Activist Short Seller Campaign </strong> <em> with Emily Wang (HKUST) and Jenny Li Zhang (UBC)</em> </div>
-   </ul>
- <ul>   <div class="title"> [7]<strong> Workforce Exposure to AI and Supply Chain Management </strong>  </div>
-   </ul>
-  
-</div>
-
