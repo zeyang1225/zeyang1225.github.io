@@ -6,6 +6,7 @@
 <div>
   <ul>  <div class="title"> [1] <strong> Climate-linked Pay and Supply Chain Management </strong>  </div>
   <ul>
+    <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call<br></li>
      <li>   Presented at 2024 WFA conference, 2024 MAS Midyear Meeting, 2023 NBER Conference on Compensation of Top Executives, 33rd Annual CFEA, 2023 JMAR Rookie Camp, 2023 Boston Accounting Student Symposium, 2023 ECGI Young Scholar Workshop (invited), 2023 AAA Annual Meeting, 2023 Haskayne and Fox Accounting Conference, 2023 CAAA Annual Meeting, 2023 McGill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
    <li><details>
