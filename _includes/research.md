@@ -19,7 +19,7 @@
 <div>
   <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
  <ul>
-     <li>  Major revision at Journal of Accounting Research</li>
+     <li>  Major Revision at <strong> Journal of Accounting Research </strong> </li>
   <li>  Presented at 2023 China International Conference in Finance, 2023 Haskayne and Fox Accounting Conference, 2023 McGill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
  
   </ul>
