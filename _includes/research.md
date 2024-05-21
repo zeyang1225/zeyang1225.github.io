@@ -20,7 +20,7 @@
   <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
  <ul>
      <li>  Major Revision at <strong> <em> Journal of Accounting Research </em> </strong> </li>
-  <li>  Selected presentations: 2023 China International Conference in Finance, Peking University, University of Delaware</li>
+  <li>  Selected presentations: 2023 CICF, Peking University, University of Delaware</li>
  
   </ul>
    </ul>
@@ -31,7 +31,7 @@
    <ul>  <div class="title"> [3] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575733">Voluntary Climate Disclosures: A Tale of Two Venues </a></strong> <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
 Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
  <ul>
-     <li> Selected presentations: Indian School of Business, 2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
+     <li> Selected presentations:  2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
    
   </ul>
     </ul>
