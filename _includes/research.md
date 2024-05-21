@@ -42,7 +42,7 @@ Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
    <ul>  <div class="title"> [4]<strong> Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification </strong> <em> with Yiwen Jin (UBC) and Jenny Li Zhang (UBC)</em> </div>
  <ul>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
-   <li>   Presented at 34th POMS Conference, University of Washington Fostering Inclusion Workshop, 2024 MAS Midyear Meeting</li>
+   <li>   Selected presentations: 34th POMS Conference, University of Washington Fostering Inclusion Workshop, 2024 MAS Midyear Meeting</li>
   
 
   </ul>
