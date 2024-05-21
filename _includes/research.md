@@ -8,7 +8,7 @@
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call<br></li>
-     <li>   Presented at 2024 WFA conference, 2024 MAS Midyear Meeting, 2023 NBER Conference on Compensation of Top Executives, 33rd Annual CFEA, 2023 JMAR Rookie Camp, 2023 Boston Accounting Student Symposium, 2023 ECGI Young Scholar Workshop (invited), 2023 AAA Annual Meeting, 2023 Haskayne and Fox Accounting Conference, 2023 CAAA Annual Meeting, 2023 McGill Accounting Research Conference, 2023 Hawai'i Accounting Research Conference, 2022 AAA/Deloitte Foundation Doctoral Consortium</li>
+     <li>   Selected presentations: 2024 WFA conference, 2023 NBER Conference on Compensation of Top Executives, 33rd Annual Conference on Financial Economics and Accounting, 2023 ECGI Young Scholar Workshop </li>
   
   </ul>
  </ul>
@@ -20,7 +20,7 @@
   <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
  <ul>
      <li>  Major Revision at <strong> <em> Journal of Accounting Research </em> </strong> </li>
-  <li>  Presented at 2023 China International Conference in Finance, 2023 Haskayne and Fox Accounting Conference, 2023 McGill Accounting Research Conference, Peking University, Simon Fraser University, University of Delaware</li>
+  <li>  Selected presentations: 2023 China International Conference in Finance, Peking University, University of Delaware</li>
  
   </ul>
    </ul>
@@ -31,7 +31,7 @@
    <ul>  <div class="title"> [3] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575733">Voluntary Climate Disclosures: A Tale of Two Venues </a></strong> <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
 Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
  <ul>
-     <li>  Presented at Indian School of Business, 2023 McMaster Accounting Research Symposium, Kyoto University, Waseda University, Concordia University, 2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
+     <li> Selected presentations: Indian School of Business, 2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
    
   </ul>
     </ul>
