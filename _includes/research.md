@@ -8,7 +8,7 @@
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call<br></li>
-     <li>   Selected presentations: 2024 WFA conference, 2023 NBER Conference on Compensation of Top Executives, 33rd Annual Conference on Financial Economics and Accounting, 2023 ECGI Young Scholar Workshop </li>
+     <li>   Selected presentations: 2024 WFA conference, 2023 NBER Conference on Compensation of Top Executives, 33rd Annual CFEA, 2023 ECGI Young Scholar Workshop </li>
   
   </ul>
  </ul>
