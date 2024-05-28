@@ -17,7 +17,7 @@
 <h4 style="margin:0 10px 0;" >Working Papers</h4>
   
 <div>
-  <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang (UIBE), Jing Li (SFU) and Jenny Li Zhang (UBC) </em> </div>
+  <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang, Jing Li and Jenny Li Zhang  </em> </div>
  <ul>
      <li>  Major Revision at <strong> <em> Journal of Accounting Research </em> </strong> </li>
   <li>  Selected presentations: 2023 CICF, Peking University, University of Delaware</li>
@@ -28,8 +28,8 @@
 
  
 <div>
-   <ul>  <div class="title"> [3] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575733">Voluntary Climate Disclosures: A Tale of Two Venues </a></strong> <em> with Sanjay Banerjee (UAlberta), Ailin Chen (UAlberta), Vikas
-Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
+   <ul>  <div class="title"> [3] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575733">Voluntary Climate Disclosures: A Tale of Two Venues </a></strong> <em> with Sanjay Banerjee, Ailin Chen, Vikas
+Mehrotra and Rajesh Vijayaraghavan </em> </div>
  <ul>
      <li> Selected presentations:  2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
    
@@ -39,7 +39,7 @@ Mehrotra (UAlberta) and Rajesh Vijayaraghavan (UBC) </em> </div>
  
  
 <div>
-   <ul>  <div class="title"> [4]<strong> Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification </strong> <em> with Yiwen Jin (UBC) and Jenny Li Zhang (UBC)</em> </div>
+   <ul>  <div class="title"> [4]<strong> Beyond Tokenism: The Impact of Board Ethnic Diversity on Supply Chain Diversification </strong> <em> with Yiwen Jin and Jenny Li Zhang</em> </div>
  <ul>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
    <li>   Selected presentations: 34th POMS Conference, University of Washington Fostering Inclusion Workshop, 2024 MAS Midyear Meeting</li>
