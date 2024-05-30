@@ -4,7 +4,7 @@
  <h4 style="margin:0 10px 0;"  >Dissertation</h4>
 
 <div>
-  <ul>  <div class="title"> [1] <strong> Climate-linked Pay and Supply Chain Management </strong>  </div>
+  <ul>  <div class="title"> [1] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847937">Climate-linked Pay and Supply Chain Management</a> </strong>  </div>
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of $14,000 USD academic grant of 2023 IMA Research Foundation Special Call<br></li>
