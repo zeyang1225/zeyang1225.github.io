@@ -8,4 +8,4 @@ Welcome to my website! I am an Assistant Professor of Accounting at <a href="htt
 
 Prior to joining University of Alberta, I obtained my Ph.D. from <a href="https://www.sauder.ubc.ca/">UBC Sauder School of Business</a>,  Master of Finance from <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a>, and the Bachelor in Economics from <a href="https://en.whu.edu.cn/">Wuhan University</a>. 
 
-Please feel free to reach out and connect!
+Please feel free to reach out and connect via <a href="minjia4@ualberta.ca">minjia4@ualberta.ca</a>!
