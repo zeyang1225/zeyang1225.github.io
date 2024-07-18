@@ -18,7 +18,7 @@
 <div>
   <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang, Jing Li and Jenny Li Zhang  </em> </div>
  <ul>
-     <li>  Major Revision at <strong> <em> Journal of Accounting Research </em> </strong> </li>
+     <li>  Revise and resubmit </li>
   <li>  Selected presentations: 2023 CICF, Peking University, University of Delaware</li>
  
   </ul>
