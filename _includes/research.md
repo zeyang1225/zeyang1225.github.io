@@ -1,7 +1,7 @@
  
 <h2 id="research" style="margin: 2px 0px 0px;"> <br> 
 <br> Research</h2>
- <h4 style="margin:0 10px 0;"  >Dissertation</h4>
+
 
 <div>
   <ul>  <div class="title"> [1] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847937">Climate-linked Pay and Supply Chain Management</a> </strong>  </div>
@@ -14,7 +14,6 @@
  </ul>
 </div>
 
-<h4 style="margin:0 10px 0;" >Working Papers</h4>
   
 <div>
   <ul>   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Navigating Political Risk: The Role of Firm Political Alignment</a></strong> <em> with Ping Jiang, Jing Li and Jenny Li Zhang  </em> </div>
