@@ -38,7 +38,7 @@ Mehrotra and Rajesh Vijayaraghavan </em> </div>
  
  
 <div>
- <div class="title"> [4]<strong> When Diversity Aligns: From Boardrooms to Supply Chains </strong> <em>, with Yiwen Jin and Jenny Li Zhang</em> </div>
+ <div class="title"> [4]<strong> When Diversity Aligns: From Boardrooms to Supply Chains</strong> <em>, with Yiwen Jin and Jenny Li Zhang</em> </div>
  <ul>
      <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
    <li>   Selected presentations: 34th POMS Conference, University of Washington Fostering Inclusion Workshop, 2024 MAS Midyear Meeting</li>
