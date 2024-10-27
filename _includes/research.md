@@ -27,20 +27,9 @@
 
  
 <div>
-    <div class="title"> [3] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575733">Voluntary Climate Disclosures: A Tale of Two Venues</a></strong> <em>, with Sanjay Banerjee, Ailin Chen, Vikas
-Mehrotra and Rajesh Vijayaraghavan </em> </div>
+ <div class="title"> [3]<strong> When Diversity Aligns: From Boardrooms to Supply Chains</strong> <em>, with Yiwen Jin and Jenny Li Zhang</em> </div>
  <ul>
-     <li> Selected presentations:  2022 Canadian Sustainable Finance Network Conference, Development Bank of Japan</li>
-   
-  </ul>
- 
-</div>
- 
- 
-<div>
- <div class="title"> [4]<strong> When Diversity Aligns: From Boardrooms to Supply Chains</strong> <em>, with Yiwen Jin and Jenny Li Zhang</em> </div>
- <ul>
-     <li>  Winner of $5,000 CAD EDI Catalyst Grant of UBC Sauder School of Business</li>
+     <li>  Winner of EDI Catalyst Grant of UBC Sauder School of Business</li>
    <li>   Selected presentations: 34th POMS Conference, University of Washington Fostering Inclusion Workshop, 2024 MAS Midyear Meeting</li>
   
 
