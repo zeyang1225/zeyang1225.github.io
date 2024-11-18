@@ -25,9 +25,9 @@
 
 </div>
 
- 
+  
 <div>
- <div class="title"> [3]<strong> When Diversity Aligns: From Boardrooms to Supply Chains</strong><em>, with Yiwen Jin and Jenny Li Zhang</em> </div>
+ <div class="title"> [3]<strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5016160"> When Diversity Aligns: From Boardrooms to Supply Chains</strong><em>, with Yiwen Jin and Jenny Li Zhang</em> </div>
  <ul>
      <li>  Winner of EDI Catalyst Grant of UBC Sauder School of Business</li>
    <li>   Selected presentations: 34th POMS Conference, University of Washington Fostering Inclusion Workshop, 2024 MAS Midyear Meeting</li>
