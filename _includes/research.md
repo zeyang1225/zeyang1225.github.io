@@ -4,7 +4,7 @@
 
 
 <div>
-  <div class="title"> [1] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847937">Climate-linked Pay and Supply Chain Management</a> </strong><em>, solo-authored</em> </div>
+  <div class="title"> [1] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847937">Climate-linked Pay and Supply Chain Management</a></strong><em>, solo-authored</em> </div>
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of 2023 IMA Research Foundation Special Call Research Grant <br></li>
