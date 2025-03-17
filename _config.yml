@@ -1,8 +1,8 @@
 # Basic Information 
 title: Jackie Zeyang Ju
-position: Assistant Professor of Accounting
-affiliation: University of Alberta 
-email: minjia4@ualberta.ca
+position: PhD Candidate in Accounting
+affiliation: University of Kentucky
+email: zeyang.ju@uky.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -10,11 +10,9 @@ email: minjia4@ualberta.ca
  
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3709935
-cv_link: assets/files/cv.pdf
 #github_link: https://github.com/
-linkedin: https://linkedin.com/in/minjiali
-#twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/in/zeyang-jackie-ju/
+#SSRN: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7253247
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
