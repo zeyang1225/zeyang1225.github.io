@@ -1,4 +1,4 @@
-<h2 id="external_presentations" style="margin: 2px 0px 0px;"> <br> 
+<h2 id="external-presentations" style="margin: 2px 0px 0px;"> <br> 
 <br> External Presentations</h2>
 
 <ul style="margin:0 0 5px;">
