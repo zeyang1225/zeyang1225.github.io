@@ -6,7 +6,7 @@
   <li><autocolor>Invited discussant of "The audit quality and economic implications of KPMG's persistent organization-level quality control system deficiencies," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023 </autocolor></li>
   <li><autocolor>Refereed presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023 </autocolor></li>
   <li><autocolor>Invited discussant of "Damp deals: The effect of mandatory flood disclosures on real estate transactions," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023 </autocolor></li>
-  <li><autocolor>Invited discussant of "Does employment-based healthcare coverage impact financial reporting quality?" at the AAA Audit Section Midyear Meeting. New Orleans, LA. January 2024 </autocolor></li>
+  <li><autocolor>Invited discussant of "Does employment-based healthcare coverage impact financial reporting quality?" at the AAA Auditing Section Midyear Meeting. New Orleans, LA. January 2024 </autocolor></li>
   <li><autocolor>Refereed presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA FARS Midyear Meeting. Denver, CO. January 2024 </autocolor></li>
   <li><autocolor>Invited presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the Early Career Researchers Support Network. Virtual. May 2024 </autocolor></li>
   <li><autocolor>Refereed presenter of "Corporate disclosure in the presence of financially constrained competitors," at the AAA Spark Meeting. Virtual. June 2024 </autocolor></li>
