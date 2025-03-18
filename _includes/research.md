@@ -16,7 +16,7 @@
     <li>  Best paper award at JAAF Symposium on ESG 2024 <br></li>
      <li>  Revise and resubmit at <em>Review of Accounting Studies</em> <br></li>
      <li>  Developed from second-year summer paper <br></li>
-  <li>  Presentations: University of Kentucky Brownbag (Ju); University of Kentucky (Ju); University of Kansas (Li); Early Career Researchers Support Network (Ju); 2024 CAPANA Annual Research Conference (Xie); Southwestern University of Finance and Economics (Xie); Chongqing University of Technology (Xie); Chongqing Technology and Business University (Xie); The 7th Dragon-Horse Accounting and Finance Symposium keynote (Xie); 2024 Graduate Research Accounting Conference Emory (Ju); JAAF Symposium on ESG 2024 plenary (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA Auditing Section Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju, scheduled)</li>
+  <li>  Presentations: University of Kentucky Brownbag (Ju); University of Kentucky (Ju); University of Kansas (Li); Early Career Researchers Support Network (Ju); 2024 CAPANA Annual Research Conference (Xie); Southwestern University of Finance and Economics (Xie); Chongqing University of Technology (Xie); Chongqing Technology and Business University (Xie); The 7th Dragon-Horse Accounting and Finance Symposium keynote (Xie); 2024 Graduate Research Accounting Conference Emory (Ju); JAAF Symposium on ESG 2024 plenary (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA Auditing Section Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Xie, scheduled)</li>
   </ul>
 </div>
   
