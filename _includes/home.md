@@ -10,4 +10,4 @@ Before pursuing my doctoral studies, I worked as a research associate and taught
 
 When I'm not teaching or doing research, I enjoy mindfulness swimming, especially going for a one-hour swim at Lancaster Aquatic Centre after teaching two morning class sections. I also enjoy reading history and learn about human decision making through historical stories. I originally come from Zhangqiu of Shandong (the birthplace of China’s philosophy).
 
-Please feel free to reach out and connect via <a href="zeyang.ju@uky.edu">zeyang.ju@uky.edu</a>!
+Please feel free to reach out via <a href="zeyang.ju@uky.edu">zeyang.ju@uky.edu</a>!
