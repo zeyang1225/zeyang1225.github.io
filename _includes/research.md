@@ -6,7 +6,7 @@
   <ul>
     <li>  Top 10 downloads for Corporate Governance & Finance eJournal at the SSRN for several days  <br></li>
      <li>  Developed from a research seminar proposal <br></li>
-     <li>  Presentations: University of Kentucky Brownbag (Ju); Spring 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); University of Hong Kong (Yang, scheduled); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju, scheduled); The 47th Annual Congress of European Accounting Association (Yang, scheduled); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Xie, scheduled)</li>
+     <li>  Presentations: University of Kentucky Brownbag (Ju); Spring 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); University of Hong Kong (Yang, scheduled); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju, scheduled); The 47th Annual Congress of European Accounting Association (Yang, scheduled); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Xie, scheduled); 2025 CAAA Annual Conference (Ju, scheduled)</li>
   </ul>
 </div>
   
