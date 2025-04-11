@@ -2,7 +2,7 @@
 <h2 id="bio" style="margin: 2px 0px 0px;">  
 <br> Short Bio   </h2>
 
-Welcome to my website! I am a fourth-year PhD candidate at the Von Allmen School of Accountancy, University of Kentucky. I use archival methods and machine learning to understand sustainability issues (artificial intelligence, climate commitments, and human capital) in financial and managerial accounting. My research presented at major conferences and universities across the globe. I participated in AAA Auditing/FARS/MAS doctoral consortiums and AAA Doctoral Student/Faculty Interchange SE. I received the Best Paper Award at 2024 JAAF Symposium on ESG and the 2025 Gatton Doctoral Research Excellence Award.
+Welcome to my website! I am a fourth-year PhD candidate at the Von Allmen School of Accountancy, University of Kentucky. I use archival methods and machine learning to understand sustainability issues (artificial intelligence, climate commitments, and human capital) in accounting. My research presented at major conferences and universities across the globe. I participated in AAA Auditing/FARS/MAS doctoral consortiums and AAA Doctoral Student/Faculty Interchange SE. I received the Best Paper Award at 2024 JAAF Symposium on ESG and the 2025 Gatton Doctoral Research Excellence Award.
 
 My teaching infuses artificial intelligence (prompt engineering) and data analytics (Python and Microsoft Access) into accounting information system class. I am also looking for industry practitioners to share practical insights in my classroom.
 
