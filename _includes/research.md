@@ -6,7 +6,7 @@
 hushing?</strong>, <em>Solo-authored dissertation</em> </div>
   <ul>
     <li>  Dissertation committee: Brian Bratten, Sean Cao (Maryland), Brent Harrison, Tyler Kleppe, Hong Xie (Chair) <br></li>
-     <li>  Presentations: 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Junior Accounting Scholars Organization (Ju, scheduled); 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium (Ju, scheduled)</li>
+     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization (Scheduled); 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium (Scheduled)</li>
   </ul>
 </div>
 
