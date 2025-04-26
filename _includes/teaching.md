@@ -32,6 +32,7 @@
   <li><autocolor>Invited presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium. Westlake, TX. June 2025 (Scheduled) </autocolor></li>
  <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the CAAA Annual Conference. Toronto, CA. June 2025 (Scheduled) </autocolor></li>
   <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the CAAA Annual Conference. Toronto, CA. June 2025 (Scheduled) </autocolor></li>
+   <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the CAAA Annual Conference. Toronto, CA. June 2025 (Scheduled) </autocolor></li>
     <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
  <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
