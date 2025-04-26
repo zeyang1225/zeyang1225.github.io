@@ -21,7 +21,7 @@
 </div>
   
 <div>
- <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Constituency statutes and voluntary disclosure: Evidence from major customer identities</strong>, <em>with Jenny Tucker (Florida) and Hong Xie (Kentucky)</em></div>
+ <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5223870">Constituency statutes and voluntary disclosure: Evidence from major customer identities</strong>, <em>with Jenny Tucker (Florida) and Hong Xie (Kentucky)</em></div>
  <ul>
      <li>  Winner of 2025 Gatton Doctoral Research Excellence Award <br></li>
       <li> Developed from first-year summer paper <br></li>
