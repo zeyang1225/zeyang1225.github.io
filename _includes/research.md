@@ -5,7 +5,7 @@
   <div class="title"> [5] <strong> Caught up in the AI rat race: Does technological peer pressure fuel AI washing or 
 hushing?</strong>, <em>Solo-authored dissertation</em> </div>
   <ul>
-    <li>  Dissertation committee: Brian Bratten, Sean Cao (Maryland), Brent Harrison, Tyler Kleppe, Hong Xie (Chair) <br></li>
+    <li>  Dissertation committee: Brian Bratten, Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Chair) <br></li>
      <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization (Scheduled); 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium (Scheduled)</li>
   </ul>
 </div>
