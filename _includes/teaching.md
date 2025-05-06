@@ -36,7 +36,7 @@
   <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the CAAA Annual Conference. Toronto, CA. June 2025 (Scheduled) </autocolor></li>
    <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the CAAA Annual Conference. Toronto, CA. June 2025 (Scheduled) </autocolor></li>
    <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
-  <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) (Scheduled) </autocolor></li>
+  <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
    <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
     <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
  <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
