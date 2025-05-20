@@ -29,7 +29,7 @@
   <li><autocolor>Invited discussant of "Employer WARN-ing: Mandatory advance disclosure of employment loss and corporate innovation," at the AAA Current Issues in Sustainability Conference. Arlington, VA. March 2025 </autocolor></li>
   <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AAA Current Issues in Sustainability Conference. Arlington, VA. March 2025 </autocolor></li>
   <li><autocolor>Invited discussant of "Follow the money: Are severe weather events value relevant?" at the AAA Current Issues in Sustainability Conference. Arlington, VA. March 2025 </autocolor></li>
-  <li><autocolor>Invited presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the Junior Accounting Scholars Organization. Virtual. May 2025 (Scheduled) </autocolor></li>
+  <li><autocolor>Invited presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the Junior Accounting Scholars Organization. Virtual. May 2025 </autocolor></li>
   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the Rutgers Accounting Doctoral Symposium. Virtual. May 2025 (Scheduled) </autocolor></li>
   <li><autocolor>Invited presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium. Westlake, TX. June 2025 (Scheduled) </autocolor></li>
  <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the CAAA Annual Conference. Toronto, CA. June 2025 (Scheduled) </autocolor></li>
