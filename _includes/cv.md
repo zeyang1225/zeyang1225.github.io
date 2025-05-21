@@ -2,8 +2,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Instructor for ACC 424 Accounting Information System (Spring 2025)
-    <!-- Reduced indentation with custom style -->
-    <ul style="margin-left: 1.2em;">
+    <ul style="list-style-type: disc; padding-left: 1.5em;">
       <li><autocolor>Instructor evaluation of two sessions (80 students): 4.1 and 4.2 out of 5.0 (Department Mean: 4.2)</autocolor></li>
       <li><autocolor>Course evaluation of two sessions (80 students): 4.1 and 4.1 out of 5.0 (Department Mean: 4.2)</autocolor></li>
       <li><autocolor>Learning environment evaluation of two sessions (80 students): 4.3 and 4.5 out of 5.0 (Department Mean: 4.3)</autocolor></li>
@@ -24,5 +23,6 @@
     </ul>
   </autocolor></li>
 </ul>
+
 
 
