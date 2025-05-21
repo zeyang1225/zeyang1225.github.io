@@ -3,9 +3,9 @@
 <ul style="margin:0 0 5px;">
   <li><autocolor>Instructor for ACC 424 Accounting Information System (Spring 2025)
     <ul style="list-style-type: disc; padding-left: 1.5em;">
-      <li><autocolor>Instructor evaluation of two sessions (80 students): 4.1 and 4.2 out of 5.0 (Department Mean: 4.2)</autocolor></li>
-      <li><autocolor>Course evaluation of two sessions (80 students): 4.1 and 4.1 out of 5.0 (Department Mean: 4.2)</autocolor></li>
-      <li><autocolor>Learning environment evaluation of two sessions (80 students): 4.3 and 4.5 out of 5.0 (Department Mean: 4.3)</autocolor></li>
+      <li><autocolor>Instructor evaluation of two sections (80 students): 4.1 and 4.2 out of 5.0 (Department Mean: 4.2)</autocolor></li>
+      <li><autocolor>Course evaluation of two sections (80 students): 4.1 and 4.1 out of 5.0 (Department Mean: 4.2)</autocolor></li>
+      <li><autocolor>Learning environment evaluation of two sections (80 students): 4.3 and 4.5 out of 5.0 (Department Mean: 4.3)</autocolor></li>
       <li><autocolor>Selected qualitative student evaluations:<br>
         <strong><em>
           “Professor Ju was always willing to help students when they needed it… He took the feedback and immediately implemented it. He wants to see the best for his students and it was shown through his teachings and interactions with his students.”<br>
