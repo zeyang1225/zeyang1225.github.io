@@ -17,7 +17,7 @@
           “Professor Zeyang Ju was extremely nice and respectful to students and I loved that about him. He was also really understanding which was amazing!”<br>
           “He gets to the point in a timely manner.”<br>
           “Course announcements were informative. They helped me understand the concepts to be covered in the lectures and upcoming assignments.”<br>
-          “He was really accommodating.”
+          “He had homeworks and quizzes reflect what we learned in lecture which made studying for exams and quizzes alot easier.”
         </em></strong>
       </autocolor></li>
     </ul>
