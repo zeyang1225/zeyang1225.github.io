@@ -7,7 +7,7 @@ hushing?</strong>, <em>Solo-authored dissertation</em> </div>
   <ul>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li>  Best paper award at 2025 Rutgers Accounting Doctoral Symposium <br></li>
-     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium (Scheduled); 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium (Scheduled)</li>
+     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium (Scheduled)</li>
   </ul>
 </div>
 
