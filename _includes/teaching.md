@@ -36,7 +36,7 @@
   <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the CAAA Annual Conference. Toronto, CA. June 2025 </autocolor></li>
    <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the CAAA Annual Conference. Toronto, CA. June 2025 </autocolor></li>
   <li><autocolor>Invited discussant of "ESG and firm performance: A deep dive into community banks," at the CAAA Annual Conference. Toronto, CA. June 2025 </autocolor></li>
-  <li><autocolor>Invited discussant of "Can Machine Learning Improve Goodwill Impairment Prediction?" at the AAA Spark Meeting. Virtual. June 2025 </autocolor></li>
+  <li><autocolor>Invited discussant of "Can Machine Learning Improve Goodwill Impairment Prediction?" at the AAA Spark Meeting. Virtual. June 2025 (Scheduled) </autocolor></li>
    <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
   <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
    <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
