@@ -44,4 +44,5 @@
  <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 <li><autocolor>Invited discussant of "Social media engagement as non-financial indicator of firm performance: An empirical study," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
+<li><autocolor>Invited discussant of "Privacy lost? Consumer digital privacy and earnings benchmarks," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 </ul>
