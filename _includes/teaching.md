@@ -37,10 +37,12 @@
    <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the CAAA Annual Conference. Toronto, CA. June 2025 </autocolor></li>
   <li><autocolor>Invited discussant of "ESG and firm performance: A deep dive into community banks," at the CAAA Annual Conference. Toronto, CA. June 2025 </autocolor></li>
   <li><autocolor>Invited discussant of "Can machine learning improve goodwill impairment prediction?" at the AAA Spark Meeting. Virtual. June 2025 </autocolor></li>
-   <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
-  <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
-   <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AFAANZ Conference. Brisbane, AU. July 2025 (Scheduled) </autocolor></li>
-    <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
+   <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AFAANZ Conference. Brisbane, AU. July 2025 </autocolor></li>
+  <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AFAANZ Conference. Brisbane, AU. July 2025 </autocolor></li>
+   <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AFAANZ Conference. Brisbane, AU. July 2025 </autocolor></li>
+  <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2025 (Scheduled) </autocolor></li>
+  <li><autocolor>Invited discussant of "Does the element of surprise deter misconduct?" at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2025 (Scheduled) </autocolor></li>  
+  <li><autocolor>Referred presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
   <li><autocolor>Invited discussant of "Privacy lost? Consumer digital privacy and earnings benchmarks," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
  <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
