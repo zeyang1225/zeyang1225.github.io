@@ -47,4 +47,6 @@
  <li><autocolor>Referred presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 <li><autocolor>Referred presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
 <li><autocolor>Invited discussant of "Social media engagement as non-financial indicator of firm performance: An empirical study," at the AAA Annual Conference. Chicago, IL. August 2025 (Scheduled) </autocolor></li>
+<li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the ABR-Fudan Joint Conference. Shanghai, China. September 2025 (Scheduled) </autocolor></li>
+  <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the 18th Annual Meeting of the Academy of Behavioral Finance & Economics. Santa Clara, CA. September 2025 (Scheduled) </autocolor></li>
 </ul>
