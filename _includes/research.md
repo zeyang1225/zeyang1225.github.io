@@ -7,7 +7,7 @@ hushing?</strong>, <em>Solo-authored dissertation</em> </div>
   <ul>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li>  Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium <br></li>
-     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory (Scheduled); 2025 ABR-Fudan Joint Conference (Scheduled); The 18th Annual Meeting of the Academy of Behavioral Finance & Economics (Scheduled)</li>
+     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference (Scheduled); The 18th Annual Meeting of the Academy of Behavioral Finance & Economics (Scheduled)</li>
   </ul>
 </div>
 
@@ -16,7 +16,7 @@ hushing?</strong>, <em>Solo-authored dissertation</em> </div>
   <ul>
     <li>  Top 10 downloads for Corporate Governance & Finance eJournal at the SSRN for several days  <br></li>
      <li>  Developed from a research seminar proposal <br></li>
-     <li>  Presentations: University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); University of Hong Kong (Yang, scheduled); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); University of Cincinnati (Xie); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju, scheduled)</li>
+     <li>  Presentations: University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); University of Cincinnati (Xie); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju, scheduled)</li>
   </ul>
 </div>
   
