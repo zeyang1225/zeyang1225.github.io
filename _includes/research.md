@@ -3,7 +3,7 @@
 <br> Research</h2>
 <div>
   <div class="title"> [5] <strong> Caught up in the AI rat race: Does technological peer pressure fuel AI washing or 
-hushing?</strong>, <em>Solo-authored dissertation</em> </div>
+hushing?</strong>, <em>Single-authored dissertation</em> </div>
   <ul>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li>  Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
