@@ -37,10 +37,10 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
 <div>
  <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5223870">Constituency statutes and voluntary disclosure: Evidence from major customer identities</a></strong>, <em>with Jenny Tucker (Florida) and Hong Xie (Kentucky)</em></div>
  <ul>
-     <li>  Winner of 2025 Gatton Doctoral Research Excellence Award; Top 10 downloads for Empirical Legal Studies eJournal at the SSRN for several days <br></li>
-      <li> Developed from first-year summer paper <br></li>
-   <li>  Presentations: University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); University of Toronto (Tucker); University of Florida (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); Hong Kong Polytechnic University (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); 2024 AAA FARS Midyear Meeting (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju)</li>
   <li> <em>“Legal recognition of stakeholder orientation nudges managers towards improving non-owner stakeholders' information environment.”</em> <br></li>
+     <li>  Winner of 2025 Gatton Doctoral Research Excellence Award; Top 10 downloads for Empirical Legal Studies eJournal at the SSRN for several days <br></li>
+   <li>  Presentations: University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); University of Toronto (Tucker); University of Florida (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); Hong Kong Polytechnic University (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); 2024 AAA FARS Midyear Meeting (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju)</li>
+  <li> Developed from first-year summer paper <br></li>
   </ul>
 </div>
 
