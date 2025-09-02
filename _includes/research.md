@@ -25,11 +25,12 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
 <div>
 <div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Dare to say No? Externalities of employee employment protection on financial misreporting</a></strong>, <em>with Chan Li (Kansas) and Hong Xie (Kentucky)</em></div>
  <ul>
+  <li> <em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li>
     <li>  Best Paper Award at JAAF Symposium on ESG 2024 <br></li>
      <li>  Revise and resubmit at <em>Review of Accounting Studies</em> <br></li>
-     <li>  Developed from second-year summer paper <br></li>
   <li>  Presentations: University of Kentucky Brownbag (Ju); University of Kentucky (Ju); University of Kansas (Li); Early Career Researchers Support Network (Ju); 2024 CAPANA Annual Research Conference (Xie); Southwestern University of Finance and Economics (Xie); Chongqing University of Technology (Xie); Chongqing Technology and Business University (Xie); The 7th Dragon-Horse Accounting and Finance Symposium keynote (Xie); 2024 Graduate Research Accounting Conference Emory (Ju); 2024 JAAF Symposium on ESG plenary (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA Auditing Section Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Xie); 2025 CAAA Annual Meeting (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju)</li>
- <li> <em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li> 
+  <li>  Developed from second-year summer paper <br></li>
+ 
  </ul>
 </div>
   
