@@ -48,7 +48,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
  <ul>
      <li> Developed from masters thesis <br></li>
    <li>  Presentations: Australian National University (Ju); 2020 AFAANZ Conference (Wu); The 47th European Finance Association Annual Meeting (Wu); University of Kentucky Brownbag (Ju); 2024 AAA Spark Meeting (Ju); The 36th Asian Finance Association Annual Meeting (Ju)</li>
-  <li> <em>“When peer firms become financially constrained, focal firm discloses more its value-relevant information but mention its peers less.”</em> <br></li>
+  <li> <em>“When peer firms become financially constrained, focal firm discloses its value-relevant information more but mention its competition threats less.”</em> <br></li>
   </ul>
 </div>
 
