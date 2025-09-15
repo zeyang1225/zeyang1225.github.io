@@ -8,7 +8,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li> <em>“Faced with technological peer pressure, firms engage in AI washing to appear tech advanced and attract capital.”</em> <br></li>
    <li>  Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
-     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference (Scheduled); The 18th Annual Meeting of the Academy of Behavioral Finance & Economics (Scheduled); 2025 JAAF Symposium plenary (Scheduled)</li>
+     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th Annual Meeting of the Academy of Behavioral Finance & Economics (Scheduled); 2025 JAAF Symposium plenary (Scheduled)</li>
   </ul>
 </div>
 
