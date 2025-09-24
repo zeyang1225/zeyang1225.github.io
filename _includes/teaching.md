@@ -50,4 +50,6 @@
 <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the ABR-Fudan Joint Conference. Shanghai, China. September 2025 </autocolor></li>
   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the 18th Annual Meeting of the Academy of Behavioral Finance & Economics. Virtual. September 2025 (Scheduled) </autocolor></li>
   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the the JAAF Symposium 2025. New York, NY. October 2025 (Scheduled) </autocolor></li>
+   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at Boston Accounting Student Symposium. Boston, MA. October 2025 (Scheduled) </autocolor></li>
+   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at Hawai'i Accounting Research Conference. Honolulu, HI. January 2026 (Scheduled) </autocolor></li>
 </ul>
