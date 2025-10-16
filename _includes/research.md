@@ -8,7 +8,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li> <em>“Faced with technological peer pressure, firms engage in AI washing to appear more tech advanced and attract capital.”</em> <br></li>
    <li>  Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
-     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th Annual Meeting of the Academy of Behavioral Finance & Economics; 2025 JAAF Symposium plenary (Scheduled); 2025 Boston Accounting Students Symposium (Scheduled); 2026 Hawai'i Accounting Research Conference (Scheduled)</li>
+     <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky; Junior Accounting Scholars Organization; 2025 Rutgers Accounting Doctoral Symposium; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th ABFE Annual Meeting; 2025 JAAF Symposium plenary; 2025 Boston Accounting Students Symposium; 2026 Hawai'i Accounting Research Conference (Scheduled); 2026 AAA MAS Midyear Meeting (Scheduled) (Scheduled)</li>
   </ul>
 </div>
 
@@ -17,7 +17,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
   <ul>
    <li> <em>“Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.”</em> <br></li>
     <li>  Top 10 downloads for Corporate Governance & Finance eJournal at the SSRN for several days  <br></li>
-     <li>  Presentations: University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); University of Cincinnati (Xie); Fudan University (Yang); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju)</li>
+     <li>  Presentations: University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); University of Cincinnati (Xie); Fudan University (Yang); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); 2026 AAA IAS Midyear Meeting (Xie, scheduled)</li>
    <li>  Developed from a research seminar proposal <br></li>
   </ul>
 </div>
@@ -26,8 +26,8 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
 <div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Dare to say No? Externalities of employee employment protection on financial misreporting</a></strong>, <em>with Chan Li (Kansas) and Hong Xie (Kentucky)</em></div>
  <ul>
   <li> <em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li>
-    <li>  Best Paper Award at JAAF Symposium on ESG 2024 <br></li>
-     <li>  Revise and resubmit at <em>Review of Accounting Studies</em> <br></li>
+   <li>  Revise and resubmit at <em>Review of Accounting Studies</em> <br></li>  
+  <li>  Best Paper Award at JAAF Symposium on ESG 2024 <br></li>
   <li>  Presentations: University of Kentucky Brownbag (Ju); University of Kentucky (Ju); University of Kansas (Li); Early Career Researchers Support Network (Ju); 2024 CAPANA Annual Research Conference (Xie); Southwestern University of Finance and Economics (Xie); Chongqing University of Technology (Xie); Chongqing Technology and Business University (Xie); The 7th Dragon-Horse Accounting and Finance Symposium keynote (Xie); 2024 Graduate Research Accounting Conference Emory (Ju); 2024 JAAF Symposium on ESG plenary (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA Auditing Section Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Xie); 2025 CAAA Annual Meeting (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju)</li>
   <li>  Developed from second-year summer paper <br></li>
  
