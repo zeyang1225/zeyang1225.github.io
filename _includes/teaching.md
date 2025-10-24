@@ -52,7 +52,7 @@
   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the the JAAF Symposium 2025. New York, NY. October 2025 </autocolor></li>
    <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at Boston Accounting Students Symposium. Boston, MA. October 2025 </autocolor></li>
    <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at Hawai'i Accounting Research Conference. Honolulu, HI. January 2026 (Scheduled) </autocolor></li>
-<li><autocolor>Invited discussant of “Regulatory Impact on Cost Stickiness: A Multinational Analysis of Competition Law Effects” at the Hawai‘i Accounting Research Conference. Honolulu, HI. January 2026 (Scheduled) </autocolor></li>
-<li><autocolor>Invited discussant of “Unravel Unraveling” at the Hawai‘i Accounting Research Conference. Honolulu, HI. January 2026 (Scheduled) </autocolor></li>
+<li><autocolor>Invited discussant of “Regulatory Impact on Cost Stickiness: A Multinational Analysis of Competition Law Effects,” at the Hawai‘i Accounting Research Conference. Honolulu, HI. January 2026 (Scheduled) </autocolor></li>
+<li><autocolor>Invited discussant of “Unravel Unraveling,” at the Hawai‘i Accounting Research Conference. Honolulu, HI. January 2026 (Scheduled) </autocolor></li>
   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the AAA MAS Midyear Meeting. Nashville, TN. January 2026 (Scheduled) </autocolor></li>
 </ul>
