@@ -13,7 +13,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
 </div>
 
 <div>
-  <div class="title"> [4] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051865">Asymmetric cost behavior and corporate environmental commitments</a></strong>, <em>with Clara Chen (UIUC), Hong Xie (Kentucky), and Detian Yang (HKU)</em> </div>
+  <div class="title"> [4] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051865">The effects of asymmetric cost behavior on corporate environmental commitments and actions</a></strong>, <em>with Clara Chen (UIUC), Hong Xie (Kentucky), and Detian Yang (Fudan)</em> </div>
   <ul>
    <li> <em>“Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.”</em> <br></li>
     <li>  Top 10 downloads for Corporate Governance & Finance eJournal at the SSRN for several days  <br></li>
