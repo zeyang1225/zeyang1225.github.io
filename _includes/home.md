@@ -8,7 +8,7 @@ My passion is using archival method and textual analysis to understand digital t
 
 Before pursuing my doctoral studies, I worked as a research associate and taught business statistics at the Australian National University, where I received two summer research fellowships. I earned a research master’s degree with Chancellor’s Commendation for Academic Excellence from the Australian National University and a bachelor’s degree from Beijing Institute of Technology. 
 
-Outside academia, I enjoy mindfulness swimming, and often unwind with a one-hour swim at the Lancaster Aquatic Centre after dinner. I also enjoy reading history and learn about human decision making through historical stories. I originally come from Zhangqiu of Shandong (the birthplace of China’s philosophy).
+Outside academia, I enjoy mindfulness swimming, and often unwind with a one-hour swim at the Lancaster Aquatic Centre. I also read history and learn about human decision making. My hometown is Zhangqiu of Shandong (the birthplace of China’s philosophy).
 
 Please feel free to reach out via <a href="zeyang.ju@uky.edu">zeyang.ju@uky.edu</a>!
 
