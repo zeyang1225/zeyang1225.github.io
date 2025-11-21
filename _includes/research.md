@@ -16,7 +16,6 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
   <div class="title"> [4] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051865">The effects of asymmetric cost behavior on corporate environmental commitments and actions</a></strong>, <em>with Clara Chen (UIUC), Hong Xie (Kentucky), and Detian Yang (Fudan)</em> </div>
   <ul>
    <li> <em>“Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.”</em> <br></li>
-    <li>  Top 10 downloads for Corporate Governance & Finance eJournal at the SSRN for several days  <br></li>
      <li>  Presentations: University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); 2025 AAA MAS Midyear Meeting (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); University of Cincinnati (Xie); Fudan University (Yang); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); 2026 AAA IAS Midyear Meeting (Xie, scheduled)</li>
    <li>  Developed from a research seminar proposal <br></li>
   </ul>
@@ -38,7 +37,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
  <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5223870">Constituency statutes and voluntary disclosure: Evidence from major customer identities</a></strong>, <em>with Jenny Tucker (Florida) and Hong Xie (Kentucky)</em></div>
  <ul>
   <li> <em>“Legal recognition of stakeholder orientation nudges managers towards improving non-owner stakeholders' information environment.”</em> <br></li>
-     <li>  Winner of 2025 Gatton Doctoral Research Excellence Award; Top 10 downloads for Empirical Legal Studies eJournal at the SSRN for several days <br></li>
+     <li>  Winner of 2025 Gatton Doctoral Research Excellence Award <br></li>
    <li>  Presentations: University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); University of Toronto (Tucker); University of Florida (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); Hong Kong Polytechnic University (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); 2024 AAA FARS Midyear Meeting (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju)</li>
   <li> Developed from first-year summer paper <br></li>
   </ul>
