@@ -17,7 +17,7 @@ hushing?</strong>, <em>Single-authored dissertation</em> </div>
   <ul>
    <li> <em>“Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.”</em> <br></li>
      <li>  Presentations: University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); Chinese University of Hong Kong (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); <strong>2025 AAA MAS Midyear Meeting</strong> (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); University of Cincinnati (Xie); Fudan University (Yang); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); 2026 AAA IAS Midyear Meeting (Xie, scheduled); <strong>2026 AAA FARS Midyear Meeting</strong> (Ju, scheduled)</li>
-   <li>  Developed from a research seminar proposal <br></li>
+   <li>  Developed from an accounting seminar proposal <br></li>
   </ul>
 </div>
   
