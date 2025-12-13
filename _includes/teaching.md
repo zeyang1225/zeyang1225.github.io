@@ -58,4 +58,5 @@
 <li><autocolor>Invited discussant of “When speaking freely pays: Anti-SLAPP laws and firms' cost of equity,” at the AAA MAS Midyear Meeting. Nashville, TN. January 2026 (Scheduled) </autocolor></li>
 <li><autocolor>Referred presenter of “The effects of asymmetric cost behavior on corporate environmental commitments and actions,” at the AAA FARS Midyear Meeting. San Antonio, TX. January 2026 (Scheduled) </autocolor></li>
 <li><autocolor>Referred presenter of “Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?” at the AAA Joint Midyear Meeting of the AIS and SET Sections. Provo, UT. February 2026 (Scheduled)</autocolor></li>
+  <li><autocolor>Invited discussant of “Compliance in the age of Artificial Intelligence (AI): The impact of the IRS’s AI use on taxpayer compliance,” at the AAA Joint Midyear Meeting of the AIS and SET Sections. Provo, UT. February 2026 (Scheduled)</autocolor></li>
 </ul>
