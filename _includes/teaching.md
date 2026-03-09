@@ -62,6 +62,6 @@
 <li><autocolor>Invited discussant of “Regulatory Impact on Cost Stickiness: A Multinational Analysis of Competition Law Effects,” at the Hawai‘i Accounting Research Conference. Honolulu, HI. January 2026 </autocolor></li>
   <li><autocolor>Referred presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the AAA MAS Midyear Meeting. Nashville, TN. January 2026 </autocolor></li>
 <li><autocolor>Invited presenter of “Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at China Europe International Business School Research Seminar. Shanghai, China. January 2026 </autocolor></li>  
-<li><autocolor>Referred presenter of “Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?” at the AAA Joint Midyear Meeting of the AIS and SET Sections. Provo, UT. February 2026 (Scheduled)</autocolor></li>
-  <li><autocolor>Invited discussant of “Compliance in the age of Artificial Intelligence (AI): The impact of the IRS’s AI use on taxpayer compliance,” at the AAA Joint Midyear Meeting of the AIS and SET Sections. Provo, UT. February 2026 (Scheduled)</autocolor></li>
+<li><autocolor>Referred presenter of “Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?” at the AAA Joint Midyear Meeting of the AIS and SET Sections. Provo, UT. February 2026</autocolor></li>
+  <li><autocolor>Invited discussant of “Compliance in the age of Artificial Intelligence (AI): The impact of the IRS’s AI use on taxpayer compliance,” at the AAA Joint Midyear Meeting of the AIS and SET Sections. Provo, UT. February 2026</autocolor></li>
 </ul>
