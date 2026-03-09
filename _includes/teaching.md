@@ -4,10 +4,10 @@ External Presentations
 
 <h3 style="font-size: 1.35em; margin-top: 20px; margin-bottom: 8px;">2023</h3>
 <ul style="padding-left: 22px; margin-top: 0; margin-bottom: 6px;">
-  <li style="line-height: 1.6; margin-bottom: 6px;"><autocolor>Invited presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023</autocolor></li>
-  <li style="line-height: 1.6; margin-bottom: 6px;"><autocolor>Invited discussant of "The audit quality and economic implications of KPMG's persistent organization-level quality control system deficiencies," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023</autocolor></li>
-  <li style="line-height: 1.6; margin-bottom: 6px;"><autocolor>Refereed presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023</autocolor></li>
-  <li style="line-height: 1.6; margin-bottom: 6px;"><autocolor>Invited discussant of "Damp deals: The effect of mandatory flood disclosures on real estate transactions," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023</autocolor></li>
+  <li style="line-height: 1.25; margin-bottom: 6px;"><autocolor>Invited presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023</autocolor></li>
+  <li style="line-height: 1.25; margin-bottom: 6px;"><autocolor>Invited discussant of "The audit quality and economic implications of KPMG's persistent organization-level quality control system deficiencies," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023</autocolor></li>
+  <li style="line-height: 1.25; margin-bottom: 6px;"><autocolor>Refereed presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023</autocolor></li>
+  <li style="line-height: 1.25; margin-bottom: 6px;"><autocolor>Invited discussant of "Damp deals: The effect of mandatory flood disclosures on real estate transactions," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023</autocolor></li>
 </ul>
 
 <h3 style="font-size: 1.35em; margin-top: 20px; margin-bottom: 8px;">2024</h3>
