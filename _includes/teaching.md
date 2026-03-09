@@ -1,9 +1,12 @@
-<h2 id="external-presentations" style="margin: 2px 0px 0px;">
+<h2 id="external-presentations" style="margin: 2px 0 0 0;">
 External Presentations
 </h2>
 
+
+<ul style="padding-left: 22px;">
+
 <h3>2023</h3>
-<ul style="margin:0 0 5px;">
+<ul>
 <li><autocolor>Invited presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023</autocolor></li>
 <li><autocolor>Invited discussant of "The audit quality and economic implications of KPMG's persistent organization-level quality control system deficiencies," at the AAA Doctoral Student/Faculty Interchange SE. Virtual. June 2023</autocolor></li>
 <li><autocolor>Refereed presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the Graduate Research Accounting Conference Emory. Atlanta, GA. July 2023</autocolor></li>
@@ -11,7 +14,7 @@ External Presentations
 </ul>
 
 <h3>2024</h3>
-<ul style="margin:0 0 5px;">
+<ul>
 <li><autocolor>Invited discussant of "Does employment-based healthcare coverage impact financial reporting quality?" at the AAA Auditing Section Midyear Meeting. New Orleans, LA. January 2024</autocolor></li>
 <li><autocolor>Refereed presenter of "Constituency statutes and voluntary disclosure: Evidence from major customer identities," at the AAA FARS Midyear Meeting. Denver, CO. January 2024</autocolor></li>
 <li><autocolor>Invited presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the Early Career Researchers Support Network. Virtual. May 2024</autocolor></li>
@@ -28,7 +31,7 @@ External Presentations
 </ul>
 
 <h3>2025</h3>
-<ul style="margin:0 0 5px;">
+<ul>
 <li><autocolor>Refereed presenter of "Dare to say No? Externalities of employee employment protection on financial misreporting," at the Hawai'i Accounting Research Conference. Honolulu, HI. January 2025</autocolor></li>
 <li><autocolor>Refereed presenter of "Asymmetric cost behavior and corporate environmental commitments," at the Hawai'i Accounting Research Conference. Honolulu, HI. January 2025</autocolor></li>
 <li><autocolor>Refereed presenter of "Asymmetric cost behavior and corporate environmental commitments," at the AAA MAS Midyear Meeting. Austin, TX. January 2025</autocolor></li>
@@ -71,7 +74,7 @@ External Presentations
 </ul>
 
 <h3>2026</h3>
-<ul style="margin:0 0 5px;">
+<ul>
 <li><autocolor>Refereed presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at Hawai'i Accounting Research Conference. Honolulu, HI. January 2026</autocolor></li>
 <li><autocolor>Invited discussant of “Regulatory Impact on Cost Stickiness: A Multinational Analysis of Competition Law Effects,” at the Hawai‘i Accounting Research Conference. Honolulu, HI. January 2026</autocolor></li>
 <li><autocolor>Refereed presenter of "Caught up in the AI rat race: Does technological peer pressure fuel AI washing or hushing?" at the AAA MAS Midyear Meeting. Nashville, TN. January 2026</autocolor></li>
