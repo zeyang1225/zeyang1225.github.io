@@ -2,7 +2,7 @@
 <h2 id="research" style="margin: 2px 0px 0px;"> <br> 
 <br> Research</h2>
 <div>
-  <div class="title"> [5] <strong> Caught up in the AI rat race: Does technological peer pressure fuel AI washing or 
+  <div class="title"> [5] <strong> Caught up in the AI investment race: Does technological peer pressure fuel AI washing or 
 hushing?</strong>, <em>Single-authored dissertation</em> </div>
   <ul>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
