@@ -6,7 +6,7 @@ Welcome! I am Zeyang (pronounced "Zuh-Yahng") Ju, a fifth-year Ph.D. candidate a
 
 Before pursuing my doctoral studies, I worked as a research associate and taught business statistics at the Australian National University, where I received two summer research fellowships. I earned a research master’s degree with Chancellor’s Commendation for Academic Excellence from the Australian National University and a bachelor’s degree from Beijing Institute of Technology. 
 
-Please feel free to reach out via <a href="zeyang.ju@uky.edu">zeyang.ju@uky.edu</a>!
+Feel free to reach out via <a href="zeyang.ju@uky.edu">zeyang.ju@uky.edu</a>!
 
 
 
