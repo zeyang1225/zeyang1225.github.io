@@ -2,7 +2,7 @@
 <h2 id="research" style="margin: 2px 0px 0px;"> <br> 
 <br> Research</h2>
 <div>
-  <div class="title"> [5] <strong> Does technological peer pressure distort corporate AI investment disclosure informativeness?</strong>, <em>Single-authored dissertation</em> </div>
+  <div class="title"> [5] <strong> Does technological peer pressure distort the informativeness of corporate AI investment disclosure?</strong>, <em>Single-authored dissertation</em> </div>
   <ul>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li> <em>“Faced with technological peer pressure, firms overstate existing AI investments to appear more tech advanced and attract capital.”</em> <br></li>
@@ -41,7 +41,7 @@ of Hong Kong-Shenzhen; <strong>Shanghai University of Finance and Economics</str
   <li> <em>“Legal recognition of stakeholder orientation nudges managers towards improving non-owner stakeholders' information environment.”</em> <br></li>
      <li>  Revise and Resubmit at <strong><em>Journal of Business Finance & Accounting</em></strong> <br></li>  
   <li>  2025 Gatton Doctoral Research Excellence Award <br></li>
-   <li>  Presentations: University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); <strong>University of Toronto</strong> (Tucker); <strong>University of Florida</strong> (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); Hong Kong Polytechnic University (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); <strong>2024 AAA FARS Midyear Meeting</strong> (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); HEC Lausanne (Tucker); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); <strong>2026 Journal of Business Finance & Accounting Conference</strong> (Ju, scheduled)</li>
+   <li>  Presentations: University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); <strong>University of Toronto</strong> (Tucker); <strong>University of Florida</strong> (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); Hong Kong Polytechnic University (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); <strong>2024 AAA FARS Midyear Meeting</strong> (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); HEC Lausanne (Tucker); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); <strong>2026 Journal of Business Finance & Accounting Conference</strong> (Xie, scheduled)</li>
   <li> Developed from first-year summer paper <br></li>
   </ul>
 </div>
