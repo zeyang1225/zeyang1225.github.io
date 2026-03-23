@@ -2,7 +2,7 @@
 <h2 id="research" style="margin: 2px 0px 0px;"> <br> 
 <br> Research</h2>
 <div>
-  <div class="title"> [5] <strong> Does technological peer pressure distort corporate AI investment disclosure?</strong>, <em>Single-authored dissertation</em> </div>
+  <div class="title"> [5] <strong> Does technological peer pressure distort corporate AI investment disclosure informativeness?</strong>, <em>Single-authored dissertation</em> </div>
   <ul>
    <li>  Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
    <li> <em>“Faced with technological peer pressure, firms overstate existing AI investments to appear more tech advanced and attract capital.”</em> <br></li>
