@@ -8,8 +8,8 @@
    <li> <em>“Faced with technological peer pressure, firms overstate existing AI investments to appear more tech advanced and attract capital.”</em> <br></li>
    <li>  Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
      <li>  Presentations: 2024 Kentucky Accounting Colloquium; University of Kentucky^2; Junior Accounting Scholars Organization; <strong>2025 Rutgers Accounting Doctoral Symposium</strong>; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th ABFE Annual Meeting; <strong>2025 JAAF Symposium plenary</strong>; <strong>2025 Boston Accounting Students Symposium</strong>; 2026 Hawai'i Accounting Research Conference; <strong>2026 AAA MAS Midyear Meeting</strong>; 2026 AAA Joint Midyear Meeting of the AIS and SET Sections; Zhejiang University; University of International Business and 
-Economics; University of Queensland; Monash University; <strong>University of Arizona</strong>; Chinese University 
-of Hong Kong-Shenzhen; <strong>Shanghai University of Finance and Economics</strong>; <strong>China Europe International Business School</strong></li>
+Economics; University of Queensland; Monash University; <strong>University of Arizona</strong>; <strong>Chinese University 
+of Hong Kong-Shenzhen</strong>; <strong>Shanghai University of Finance and Economics</strong>; <strong>China Europe International Business School</strong></li>
   </ul>
 </div>
 
