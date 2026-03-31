@@ -8,7 +8,7 @@
       <li><autocolor>Student learning evaluation of two sections (80 students): Mean 4.3 and 4.5 out of 5.0 (Department Mean: 4.3)</autocolor></li>
       <li><autocolor>
         <details style="display: inline; margin: 0; padding: 0;">
-          <summary style="display: inline; cursor: pointer; margin: 0; padding: 0;">Selected qualitative student evaluations</summary>:
+          <summary style="display: inline; cursor: pointer; margin: 0; padding: 0;">Selected qualitative student evaluations</summary>
           <strong><em>
             “Professor Ju was always willing to help students when they needed it… He took the feedback and immediately implemented it. He wants to see the best for his students and it was shown through his teachings and interactions with his students.”<br>
             “He was very organized and presented the information multiple times so every student could succeed.”<br>
