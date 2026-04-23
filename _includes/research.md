@@ -5,7 +5,7 @@
 <div class="title"> [5] <strong> Does technological peer pressure distort the informativeness of corporate AI investment disclosure?</strong>, <em>Single-authored dissertation</em> </div>
 <ul>
   <li>Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
-  <li><em>“Tech peer pressure induces firms to overstate actual AI investment to attract capital and project AI competitiveness, temporarily inflating valuation without delivering superior operating or AI innovation performance relative to peers whose disclosures reflect underlying AI investment.”</em> <br></li>
+  <li><em>“Tech peer pressure induces firms to overstate actual AI investment to attract capital and signal AI competitiveness, temporarily inflating valuation without delivering superior operating or AI innovation performance relative to peers whose disclosures reflect underlying AI investment.”</em> <br></li>
   <li>Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
   <li>
     <details style="display: inline;">
