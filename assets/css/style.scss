@@ -3,46 +3,4 @@
 
 @import "minimal-light";
 
-/* Increase the overall page width */
-.wrapper {
-  width: 1080px;
-}
 
-/* Increase the left profile/sidebar width */
-header {
-  width: 340px;
-}
-
-/* Adjust the right content area accordingly */
-section {
-  width: 680px;
-}
-
-/* Make the profile information look cleaner */
-header h1 {
-  font-size: 32px;
-  line-height: 1.2;
-  margin-bottom: 35px;
-}
-
-header p {
-  font-size: 18px;
-  line-height: 1.55;
-  margin-bottom: 12px;
-}
-
-/* Make email smaller and avoid awkward wrapping */
-header .email,
-header a[href^="mailto"] {
-  font-size: 15px;
-  word-break: normal;
-  overflow-wrap: normal;
-}
-
-/* Add spacing around Site Visits if you keep it */
-header .site-visits,
-header #busuanzi_container_site_pv {
-  margin-top: 18px;
-  margin-bottom: 10px;
-  font-size: 15px;
-}
