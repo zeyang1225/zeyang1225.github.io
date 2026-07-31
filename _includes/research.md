@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Dare to say No? Externalities of employee employment protection on financial misreporting</a></strong>, <em>with Chan Li (Kansas) and Hong Xie (Kentucky)</em></div>
+  <div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Externalities of employee employment protection: Evidence from financial misreporting</a></strong>, <em>with Chan Li (Kansas) and Hong Xie (Kentucky)</em></div>
   <ul>
     <li><em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li>
     <li>Forthcoming at <strong><em>Review of Accounting Studies</em></strong> <br></li>
