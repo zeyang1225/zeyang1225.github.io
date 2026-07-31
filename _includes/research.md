@@ -10,7 +10,7 @@
  <li>Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
   <li>
     <details style="display: inline;">
-      <summary style="display: inline; cursor: pointer;">Presentations</summary> 2024 Kentucky Accounting Colloquium; University of Kentucky^2; Junior Accounting Scholars Organization; <strong>2025 Rutgers Accounting Doctoral Symposium</strong>; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th ABFE Annual Meeting; <strong>2025 JAAF Symposium plenary</strong>; <strong>2025 Boston Accounting Students Symposium</strong>; 2026 Hawai'i Accounting Research Conference; <strong>2026 AAA MAS Midyear Meeting</strong>; 2026 AAA Joint Midyear Meeting of the AIS and SET Sections; <strong>Zhejiang University</strong>; <strong>University of International Business and Economics</strong>; <strong>University of Queensland</strong>; <strong>Monash University</strong>; <strong>University of Arizona</strong>; <strong>Chinese University of Hong Kong-Shenzhen</strong>; <strong>Shanghai University of Finance and Economics</strong>; <strong>China Europe International Business School</strong>
+      <summary style="display: inline; cursor: pointer;">Presentations</summary> 2024 Kentucky Accounting Colloquium; <strong>University of Kentucky</strong>^2; Junior Accounting Scholars Organization; <strong>2025 Rutgers Accounting Doctoral Symposium</strong>; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th ABFE Annual Meeting; <strong>2025 JAAF Symposium plenary</strong>; <strong>2025 Boston Accounting Students Symposium</strong>; 2026 Hawai'i Accounting Research Conference; <strong>2026 AAA MAS Midyear Meeting</strong>; 2026 AAA Joint Midyear Meeting of the AIS and SET Sections; <strong>Zhejiang University</strong>; <strong>University of International Business and Economics</strong>; <strong>University of Queensland</strong>; <strong>Monash University</strong>; <strong>University of Arizona</strong>; <strong>Chinese University of Hong Kong-Shenzhen</strong>; <strong>Shanghai University of Finance and Economics</strong>; <strong>China Europe International Business School</strong>
     </details>
   </li>
 </ul>
@@ -57,7 +57,7 @@
        <li>Developed from first-year summer paper <br></li>
     <li>
       <details style="display: inline;">
-        <summary style="display: inline; cursor: pointer;">Presentations</summary> University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); <strong>University of Toronto</strong> (Tucker); <strong>University of Florida</strong> (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); <strong>Hong Kong Polytechnic University</strong> (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); <strong>2024 AAA FARS Midyear Meeting</strong> (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); HEC Lausanne (Tucker); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); <strong>2026 Journal of Business Finance & Accounting Conference</strong> (Xie)
+        <summary style="display: inline; cursor: pointer;">Presentations</summary> University of Kentucky Brownbag (Ju); <strong>Texas Christian University</strong> (Tucker); Concordia University (Tucker); <strong>University of Toronto</strong> (Tucker); <strong>University of Florida</strong> (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); <strong>Hong Kong Polytechnic University</strong> (Xie); <strong>Lingnan University</strong> (Xie); Shanghai National Accounting Institute (Xie); <strong>University of Texas at Arlington</strong> (Tucker); <strong>2024 AAA FARS Midyear Meeting</strong> (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); HEC Lausanne (Tucker); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); <strong>2026 Journal of Business Finance & Accounting Conference</strong> (Xie)
       </details>
     </li>
 
@@ -71,7 +71,7 @@
    <li>Developed from masters thesis <br></li>
     <li>
       <details style="display: inline;">
-        <summary style="display: inline; cursor: pointer;">Presentations</summary> Australian National University (Ju); 2020 AFAANZ Conference (Wu); <strong>The 47th European Finance Association Annual Meeting</strong> (Wu); University of Kentucky Brownbag (Ju); 2024 AAA Spark Meeting (Ju); The 36th Asian Finance Association Annual Meeting (Ju)
+        <summary style="display: inline; cursor: pointer;">Presentations</summary> <strong>Australian National University</strong> (Ju); 2020 AFAANZ Conference (Wu); <strong>The 47th European Finance Association Annual Meeting</strong> (Wu); University of Kentucky Brownbag (Ju); 2024 AAA Spark Meeting (Ju); The 36th Asian Finance Association Annual Meeting (Ju)
       </details>
     </li>
     
