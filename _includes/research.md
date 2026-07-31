@@ -36,7 +36,7 @@
     <li><em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li>
     <li>Forthcoming at <strong><em>Review of Accounting Studies</em></strong> <br></li>
     <li>Best Paper Award at JAAF Symposium on ESG 2024 <br></li>
-   <li>Developed from second-year summer paper <br></li>
+   <li>Developed from second-year summer paper at University of Kentucky <br></li>
     <li>
       <details style="display: inline;">
         <summary style="display: inline; cursor: pointer;">Presentations</summary> University of Kentucky Brownbag (Ju); University of Kentucky (Ju); <strong>University of Kansas</strong> (Li); Early Career Researchers Support Network (Ju); <strong>2024 CAPANA Annual Research Conference</strong> (Xie); Southwestern University of Finance and Economics (Xie); Chongqing University of Technology (Xie); Chongqing Technology and Business University (Xie); The 7th Dragon-Horse Accounting and Finance Symposium keynote (Xie); 2024 Graduate Research Accounting Conference Emory (Ju); <strong>2024 JAAF Symposium on ESG plenary</strong> (Ju); 2025 Hawai'i Accounting Research Conference (Ju); <strong>2025 AAA Auditing Section Midyear Meeting</strong> (Ju); 2025 AAA Current Issues in Sustainability Conference (Xie); 2025 CAAA Annual Meeting (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); The 48th Annual Congress of European Accounting Association (Xie)
@@ -54,7 +54,7 @@
     <li><em>“Legal recognition of stakeholder orientation nudges managers towards improving non-owner stakeholders' information environment.”</em> <br></li>
     <li>Revise and Resubmit at <strong><em>Journal of Business Finance & Accounting</em></strong> <br></li>
     <li>2025 Gatton Doctoral Research Excellence Award <br></li>
-       <li>Developed from first-year summer paper <br></li>
+       <li>Developed from first-year summer paper at University of Kentucky<br></li>
     <li>
       <details style="display: inline;">
         <summary style="display: inline; cursor: pointer;">Presentations</summary> University of Kentucky Brownbag (Ju); Texas Christian University (Tucker); Concordia University (Tucker); <strong>University of Toronto</strong> (Tucker); <strong>University of Florida</strong> (Tucker); 2023 AAA Doctoral Student/Faculty Interchange SE (Ju); 2023 Graduate Research Accounting Conference Emory (Ju); <strong>Hong Kong Polytechnic University</strong> (Xie); Lingnan University (Xie); Shanghai National Accounting Institute (Xie); University of Texas at Arlington (Tucker); <strong>2024 AAA FARS Midyear Meeting</strong> (Ju); 2025 Gatton Doctoral Research Excellence Series (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); 2025 CAAA Annual Conference (Ju); HEC Lausanne (Tucker); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); <strong>2026 Journal of Business Finance & Accounting Conference</strong> (Xie)
