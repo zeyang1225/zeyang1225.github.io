@@ -6,7 +6,8 @@
 <ul>
   <li>Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
   <li><em>“Tech peer pressure induces firms to overstate actual AI investment to attract capital and signal AI competitiveness, temporarily inflating valuation without delivering superior operating or AI innovation performance relative to peers whose disclosures reflect underlying AI investment.”</em> <br></li>
-  <li>Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
+ <li>Revise and Resubmit at <strong><em>Journal of Accounting and Economics</em></strong> <br></li> 
+ <li>Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
   <li>
     <details style="display: inline;">
       <summary style="display: inline; cursor: pointer;">Presentations</summary> 2024 Kentucky Accounting Colloquium; University of Kentucky^2; Junior Accounting Scholars Organization; <strong>2025 Rutgers Accounting Doctoral Symposium</strong>; 2025 AAA Deloitte Foundation/J. Michael Cook Doctoral Consortium; 2025 Graduate Research Accounting Conference Emory; 2025 ABR-Fudan Joint Conference; The 18th ABFE Annual Meeting; <strong>2025 JAAF Symposium plenary</strong>; <strong>2025 Boston Accounting Students Symposium</strong>; 2026 Hawai'i Accounting Research Conference; <strong>2026 AAA MAS Midyear Meeting</strong>; 2026 AAA Joint Midyear Meeting of the AIS and SET Sections; Zhejiang University; University of International Business and Economics; University of Queensland; Monash University; <strong>University of Arizona</strong>; <strong>Chinese University of Hong Kong-Shenzhen</strong>; <strong>Shanghai University of Finance and Economics</strong>; <strong>China Europe International Business School</strong>
@@ -20,10 +21,10 @@
   <ul>
     <li><em>“Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.”</em> <br></li>
     <li>Revise and Resubmit at <strong><em>Contemporary Accounting Research</em></strong> <br></li>
-    <li>Developed from an accounting seminar proposal <br></li>
+    <li>Developed from an accounting seminar proposal at University of Kentucky <br></li>
     <li>
       <details style="display: inline;">
-        <summary style="display: inline; cursor: pointer;">Presentations</summary> University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); <strong>Chinese University of Hong Kong</strong> (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); <strong>2025 AAA MAS Midyear Meeting</strong> (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); <strong>University of Cincinnati</strong> (Xie); Fudan University (Yang); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); 2026 AAA IAS Midyear Meeting (Xie); <strong>2026 AAA FARS Midyear Meeting</strong> (Xie); <strong>City University of Hong Kong</strong> (Xie, scheduled)
+        <summary style="display: inline; cursor: pointer;">Presentations</summary> University of Kentucky Brownbag (Ju); 2024 Kentucky Accounting Colloquium (Ju); University of Kentucky (Ju); <strong>Chinese University of Hong Kong</strong> (Chen); Early Career Researchers Support Network (Ju); 2025 Hawai'i Accounting Research Conference (Ju); <strong>2025 AAA MAS Midyear Meeting</strong> (Ju); 2025 AAA Current Issues in Sustainability Conference (Ju); <strong>University of Cincinnati</strong> (Xie); Fudan University (Yang); The 47th Annual Congress of European Accounting Association (Yang); 2025 JAAF Symposium (International) on ESG, AI, and Big Data (Yang); 2025 CAAA Annual Conference (Ju); 2025 AFAANZ Conference (Ju); 2025 AAA Annual Meeting (Ju); 2026 AAA IAS Midyear Meeting (Xie); <strong>2026 AAA FARS Midyear Meeting</strong> (Xie); <strong>City University of Hong Kong</strong> (Xie)
       </details>
     </li>
   </ul>
@@ -33,7 +34,7 @@
   <div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Dare to say No? Externalities of employee employment protection on financial misreporting</a></strong>, <em>with Chan Li (Kansas) and Hong Xie (Kentucky)</em></div>
   <ul>
     <li><em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li>
-    <li>Revise and Resubmit at <strong><em>Review of Accounting Studies</em></strong> <br></li>
+    <li>Forthcoming at <strong><em>Review of Accounting Studies</em></strong> <br></li>
     <li>Best Paper Award at JAAF Symposium on ESG 2024 <br></li>
    <li>Developed from second-year summer paper <br></li>
     <li>
