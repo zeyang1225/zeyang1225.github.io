@@ -1,7 +1,7 @@
 <h2 id="teaching" style="margin: 2px 0px 0px;"><br><br>Teaching</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Instructor for ACC 424 Accounting Information System (Spring 2025)
+  <li><autocolor>Instructor for Accounting Information System at University of Kentucky
     <ul style="list-style-type: disc; padding-left: 1.5em;">
       <li><autocolor>Instructor evaluation of two sections (80 students): Mean 4.1 and 4.2 out of 5.0 (Department Mean: 4.2)</autocolor></li>
       <li><autocolor>Course evaluation of two sections (80 students): Mean 4.1 and 4.1 out of 5.0 (Department Mean: 4.2)</autocolor></li>
@@ -27,4 +27,11 @@
   </autocolor></li>
 </ul>
 
+<ul style="margin:0 0 5px;">
+  <li><autocolor>Guest Instructor for Textual Analysis in Accounting Research at University of Kentucky
+        </details>
+      </autocolor></li>
+    </ul>
+  </autocolor></li>
+</ul>
 
