@@ -29,7 +29,6 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Guest Instructor for Textual Analysis in Accounting Research at University of Kentucky
-    </ul>
   </autocolor></li>
 </ul>
 
