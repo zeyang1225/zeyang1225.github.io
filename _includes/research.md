@@ -5,7 +5,7 @@
 <div class="title"> [5] <strong> Does technological peer pressure distort the informativeness of corporate AI investment disclosure?</strong>, <em>Single-authored dissertation</em> </div>
 <ul>
   <li>Dissertation committee: Brian Bratten (Co-Chair), Sean Cao (Maryland), Brent Harrison (Kentucky CS), Tyler Kleppe, Hong Xie (Co-Chair) <br></li>
-  <li><em>Tech peer pressure induces firms to overstate actual AI investment to attract capital and signal AI competitiveness, temporarily inflating valuation without delivering superior operating or AI innovation performance relative to peers whose disclosures reflect underlying AI investment.</em> <br></li>
+  <li><em>Tech peer pressure induces focal firm to overstate actual AI investment to attract capital and signal AI competitiveness, temporarily inflating valuation without delivering superior operating or AI innovation performance relative to peers whose disclosures reflect underlying AI investment.</em> <br></li>
  <li>Revise and Resubmit at <strong><em>Journal of Accounting & Economics</em></strong> <br></li> 
  <li>Best Paper Award at 2025 Rutgers Accounting Doctoral Symposium; 2025 JAAF Symposium Travel Grant <br></li>
   <li>
@@ -19,7 +19,7 @@
 <div>
   <div class="title"> [4] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051865">The effects of asymmetric cost behavior on corporate environmental commitments and actions</a></strong>, <em>with Clara Chen (UIUC), Hong Xie (Kentucky), and Detian Yang (Fudan)</em> </div>
   <ul>
-    <li><em>“Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.”</em> <br></li>
+    <li><em>Cost sticky firms initially commit less to environmental initiatives because they cannot deploy multi-year resources to sustain committed initiatives especially during future downturns.</em> <br></li>
     <li>Revise and Resubmit at <strong><em>Contemporary Accounting Research</em></strong> <br></li>
     <li>Developed from an accounting seminar proposal <br></li>
     <li>
@@ -33,7 +33,7 @@
 <div>
   <div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116433">Externalities of employee employment protection: Evidence from financial misreporting</a></strong>, <em>with Chan Li (Kansas) and Hong Xie (Kentucky)</em></div>
   <ul>
-    <li><em>“Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.”</em> <br></li>
+    <li><em>Employment protection empowers employees to resist managers’ misreporting directives and curbs managers’ incentives to solicit employee collusion, making misreporting difficult to execute.</em> <br></li>
     <li>Forthcoming at <strong><em>Review of Accounting Studies</em></strong> <br></li>
     <li>Best Paper Award at JAAF Symposium on ESG 2024 <br></li>
    <li>Developed from second-year summer paper <br></li>
@@ -51,7 +51,7 @@
 <div>
   <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5223870">Constituency statutes and voluntary disclosure: Evidence from major customer identities</a></strong>, <em>with Jenny Tucker (Florida) and Hong Xie (Kentucky)</em></div>
   <ul>
-    <li><em>“Legal recognition of stakeholder orientation nudges managers towards improving non-owner stakeholders' information environment.”</em> <br></li>
+    <li><em>Legal recognition of stakeholder orientation nudges managers towards improving non-owner stakeholders' information environment.</em> <br></li>
     <li>Revise and Resubmit at <strong><em>Journal of Business Finance & Accounting</em></strong> <br></li>
     <li>2025 Gatton Doctoral Research Excellence Award <br></li>
        <li>Developed from first-year summer paper <br></li>
@@ -67,7 +67,7 @@
 <div>
   <div class="title"> [1]<strong> Corporate disclosure in the presence of financially constrained competitors</strong>, <em>with Lingwei Li (ANU) and Steven Wu (ANU)</em></div>
   <ul>
-    <li><em>“When peer firms become financially constrained, focal firm discloses its value-relevant information more and mention its competition threats less.”</em> <br></li>
+    <li><em>When peer firms become financially constrained, focal firm discloses its value-relevant information more and mention its competition threats less.</em> <br></li>
    <li>Developed from masters thesis <br></li>
     <li>
       <details style="display: inline;">
